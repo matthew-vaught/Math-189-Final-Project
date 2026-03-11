@@ -1,0 +1,1397 @@
+,County Code,District Code,School Code,School Name,Charter School,DASS,ChronicAbsenteeismRate
+4,1,10017.0,0130625,Alternatives in Action,Yes,Yes,17.2
+7,1,61119.0,0106401,Alameda Science and Technology Institute,No ,No ,8.0
+9,1,61119.0,0130229,Alameda High,No ,No ,10.9
+13,1,61127.0,0130450,Albany High,No ,No ,18.3
+15,1,61143.0,0131177,Berkeley High,No ,No ,13.5
+18,1,61150.0,0132225,Castro Valley High,No ,No ,14.9
+19,1,61150.0,0133876,Castro Valley Virtual Academy,No ,No ,19.4
+21,1,61168.0,0132746,Emery Secondary,No ,No ,39.2
+23,1,61176.0,0130062,American High,No ,No ,9.9
+26,1,61176.0,0134270,Irvington High,No ,No ,10.7
+27,1,61176.0,0134452,John F. Kennedy High,No ,No ,15.9
+28,1,61176.0,0135244,Mission San Jose High,No ,No ,10.8
+29,1,61176.0,0138693,Washington High,No ,No ,12.7
+31,1,61192.0,0108670,Leadership Public Schools - Hayward,Yes,No ,5.5
+33,1,61192.0,0133629,Hayward High,No ,No ,34.7
+34,1,61192.0,0135319,Mt. Eden High,No ,No ,25.8
+36,1,61192.0,0138339,Tennyson High,No ,No ,32.8
+39,1,61200.0,0133397,Granada High,No ,No ,10.1
+40,1,61200.0,0134536,Livermore High,No ,No ,16.5
+42,1,61234.0,0130054,Newark Memorial High,No ,No ,11.1
+45,1,61242.0,0110478,Alternative Learning Academy at Conley-Caraballo High,No ,No ,73.3
+47,1,61242.0,0134668,James Logan High,No ,No ,23.7
+48,1,61242.0,0110460,Core Learning Academy at Conley-Caraballo High,No ,Yes,75.3
+49,1,61259.0,0100065,Oakland Unity High,Yes,No ,13.3
+51,1,61259.0,0108944,Lighthouse Community Charter High,Yes,No ,27.0
+52,1,61259.0,0110189,McClymonds High,No ,No ,50.5
+53,1,61259.0,0111856,AIMS College Prep High,Yes,No ,16.7
+56,1,61259.0,0115238,ARISE High,Yes,No ,25.1
+59,1,61259.0,0125161,Castlemont High,No ,No ,58.2
+60,1,61259.0,0125716,Fremont High,No ,No ,34.5
+61,1,61259.0,0126748,LPS Oakland R & D Campus,Yes,No ,1.7
+67,1,61259.0,0135905,Oakland High,No ,No ,25.4
+68,1,61259.0,0136051,Oakland Technical High,No ,No ,24.3
+69,1,61259.0,0137943,Skyline High,No ,No ,41.8
+70,1,61259.0,0149187,MetWest High,No ,No ,89.3
+73,1,61259.0,0115667,Oakland International High,No ,Yes,59.4
+75,1,61259.0,0119859,Gateway to College High at Laney College,No ,Yes,*
+76,1,61259.0,0130146,Rudsdale Continuation High,No ,Yes,96.8
+77,1,61259.0,0130179,Street Academy Alternative High,No ,Yes,91.0
+80,1,61275.0,0136515,Piedmont High,No ,No ,4.5
+81,1,61275.0,0130286,Millennium High Alternative,No ,Yes,23.9
+82,1,61291.0,0137588,San Leandro High,No ,No ,19.2
+85,1,61309.0,0111799,East Bay Arts High,No ,No ,29.9
+86,1,61309.0,0114421,KIPP King Collegiate High,Yes,No ,16.4
+87,1,61309.0,0130849,Arroyo High,No ,No ,14.7
+88,1,61309.0,0137810,San Lorenzo High,No ,No ,29.4
+90,1,75093.0,0132704,Dublin High,No ,No ,13.3
+95,1,75101.0,0130096,Foothill High,No ,No ,9.2
+96,1,75101.0,0130583,Amador Valley High,No ,No ,6.7
+99,1,77180.0,0138289,Latitude 37.8 High,Yes,No ,22.9
+101,3,10033.0,0330035,County Community,No ,Yes,78.3
+104,3,73981.0,0330753,Amador High,No ,No ,28.1
+105,3,73981.0,0334755,Argonaut High,No ,No ,31.2
+109,4,10041.0,0134213,Come Back Butte Charter,Yes,Yes,63.1
+114,4,61408.0,0430827,Biggs High,No ,No ,18.3
+115,4,61424.0,0120394,Inspire School of Arts and Sciences,Yes,No ,26.4
+118,4,61424.0,0431676,Chico High,No ,No ,20.2
+119,4,61424.0,0437558,Pleasant Valley High,No ,No ,16.6
+123,4,61424.0,0431502,Fair View High (Continuation),No ,Yes,89.5
+124,4,61432.0,0433201,Durham High,No ,No ,17.3
+126,4,61515.0,0434803,Las Plumas High,No ,No ,25.9
+127,4,61515.0,0435602,Oroville High,No ,No ,31.3
+131,4,61531.0,0437350,Paradise Senior High,No ,No ,29.8
+134,4,75507.0,0433953,Gridley High,No ,No ,16.5
+139,5,10058.0,9010745,Oakendell Community,No ,Yes,7.7
+140,5,61556.0,0532507,Bret Harte Union High,No ,No ,16.0
+148,6,61598.0,0631259,Colusa High,No ,No ,14.1
+150,6,61606.0,0634758,Maxwell Sr High,No ,No ,4.2
+151,6,61614.0,0635250,Pierce High,No ,No ,10.5
+159,7,10074.0,0731380,Clayton Valley Charter High,Yes,No ,0.1
+165,7,61630.0,0107524,Acalanes Center for Independent Study,No ,No ,73.3
+166,7,61630.0,0730283,Acalanes High,No ,No ,10.6
+167,7,61630.0,0731125,Campolindo High,No ,No ,9.8
+168,7,61630.0,0733725,Las Lomas High,No ,No ,14.5
+169,7,61630.0,0734244,Miramonte High,No ,No ,8.2
+170,7,61648.0,0117218,Dozier-Libbey Medical High,No ,No ,22.1
+172,7,61648.0,0730465,Deer Valley High,No ,No ,36.6
+173,7,61648.0,0730861,Antioch High,No ,No ,34.6
+177,7,61697.0,0737023,John Swett High,No ,No ,23.5
+179,7,61721.0,0107797,Heritage High,No ,No ,16.6
+180,7,61721.0,0730457,Freedom High,No ,No ,25.1
+181,7,61721.0,0733980,Liberty High,No ,No ,19.8
+182,7,61721.0,0730572,Independence High,No ,Yes,0.0
+185,7,61739.0,0730549,Alhambra Senior High,No ,No ,12.6
+189,7,61754.0,0730044,Northgate High,No ,No ,13.0
+191,7,61754.0,0731646,College Park High,No ,No ,20.1
+192,7,61754.0,0731836,Concord High,No ,No ,25.3
+193,7,61754.0,0734566,Mt. Diablo High,No ,No ,33.8
+194,7,61754.0,0737809,Ygnacio Valley High,No ,No ,37.0
+197,7,61788.0,0735407,Pittsburg Senior High,No ,No ,35.2
+199,7,61796.0,0101477,Leadership Public Schools: Richmond,Yes,No ,5.5
+202,7,61796.0,0730291,Middle College High,No ,No ,2.7
+204,7,61796.0,0730598,Hercules High,No ,No ,20.1
+205,7,61796.0,0732164,De Anza High,No ,No ,30.4
+206,7,61796.0,0732941,El Cerrito High,No ,No ,19.8
+207,7,61796.0,0733659,John F. Kennedy High,No ,No ,49.7
+208,7,61796.0,0735316,Pinole Valley High,No ,No ,18.2
+209,7,61796.0,0735902,Richmond High,No ,No ,39.2
+211,7,61804.0,0113118,Dougherty Valley High,No ,No ,7.3
+212,7,61804.0,0730051,California High,No ,No ,8.7
+214,7,61804.0,0734368,Monte Vista High,No ,No ,7.4
+215,7,61804.0,0736504,San Ramon Valley High,No ,No ,13.5
+217,7,77354.0,0132233,John Henry High,Yes,No ,15.8
+219,8,10082.0,0830042,Del Norte Community,No ,Yes,89.6
+221,8,61820.0,0833004,Del Norte High,No ,No ,20.8
+225,9,10090.0,0930123,Mountainside Middle College High,Yes,Yes,0.0
+226,9,10090.0,0930131,Rite of Passage,Yes,Yes,0.0
+230,9,61853.0,0930081,Oak Ridge High,No ,No ,10.0
+231,9,61853.0,0930164,Union Mine High,No ,No ,19.5
+232,9,61853.0,0930214,Pacific Crest Academy,Yes,No ,4.9
+233,9,61853.0,0932756,El Dorado High,No ,No ,16.5
+234,9,61853.0,0936302,Ponderosa High,No ,No ,10.8
+237,9,61903.0,0937805,South Tahoe High,No ,No ,32.5
+243,10,10108.0,0136291,Career Technical Education Charter,Yes,No ,12.8
+244,10,10108.0,0109991,Crescent View West Public Charter,Yes,Yes,64.7
+249,10,62117.0,0113555,Clovis North High,No ,No ,12.9
+251,10,62117.0,1030196,Clovis West High,No ,No ,18.2
+253,10,62117.0,1030501,Buchanan High,No ,No ,15.5
+254,10,62117.0,1030683,Clovis East High,No ,No ,16.8
+255,10,62117.0,1031053,Clovis High,No ,No ,22.0
+264,10,62158.0,1032150,Fowler High,No ,No ,20.6
+266,10,62166.0,0108555,Design Science Middle College High,No ,No ,15.0
+268,10,62166.0,0114553,University High,Yes,No ,2.4
+269,10,62166.0,0132134,Phillip J Patino School of Entrepreneurship,No ,No ,23.4
+272,10,62166.0,1030279,Bullard High,No ,No ,25.9
+274,10,62166.0,1030295,Erma Duncan Polytechnical High,No ,No ,19.3
+275,10,62166.0,1030675,Sunnyside High,No ,No ,39.2
+276,10,62166.0,1031897,Edison High,No ,No ,31.6
+277,10,62166.0,1032507,Fresno High,No ,No ,36.2
+278,10,62166.0,1032911,Herbert Hoover High,No ,No ,37.0
+279,10,62166.0,1034214,McLane High,No ,No ,39.2
+280,10,62166.0,1035831,Roosevelt High,No ,No ,34.2
+282,10,62166.0,6112619,Fulton,No ,No ,70.0
+285,10,62166.0,1030642,School of Unlimited Learning,Yes,Yes,27.5
+286,10,62166.0,1030717,Florence E. Rata,No ,Yes,48.3
+289,10,62257.0,0124727,Kingsburg Independent Study High,No ,No ,40.4
+290,10,62257.0,1033695,Kingsburg High,No ,No ,11.9
+292,10,62265.0,0108092,Orange Cove High,No ,No ,8.2
+293,10,62265.0,0126292,Reedley Middle College High,Yes,No ,0.4
+294,10,62265.0,1035310,Reedley High,No ,No ,5.4
+298,10,62281.0,0140434,Laton Online Academy,No ,No ,0.0
+299,10,62281.0,1033950,Laton High,No ,No ,17.5
+301,10,62364.0,1034990,Parlier High,No ,No ,21.2
+302,10,62364.0,0126870,San Joaquin Valley High,No ,Yes,55.4
+303,10,62380.0,0136499,Ambassador Phillip V. Sanchez II Public Charter,Yes,Yes,63.9
+304,10,62414.0,0141291,Sanger West High,No ,No ,0.0
+306,10,62414.0,1036094,Sanger High,No ,No ,16.2
+310,10,62430.0,1036672,Selma High,No ,No ,20.3
+316,10,62547.0,0136523,Crescent View South II,Yes,Yes,60.2
+317,10,73809.0,1030121,Firebaugh High,No ,No ,13.5
+321,10,73965.0,0140509,Justin Garza High,No ,No ,21.5
+323,10,73965.0,1030626,Central East High,No ,No ,25.0
+324,10,73965.0,1030790,Central High,No ,No ,32.1
+326,10,73965.0,1035112,Pershing Continuation High,No ,Yes,83.7
+328,10,73999.0,1033430,Kerman High,No ,No ,19.4
+329,10,73999.0,1033422,Enterprise High,No ,Yes,51.9
+330,10,75127.0,1030493,Mendota High,No ,No ,15.1
+333,10,75234.0,1037456,Tranquillity High,No ,No ,31.4
+335,10,75275.0,1036938,Sierra High,No ,No ,32.9
+339,10,75408.0,1035575,Riverdale High,No ,No ,10.9
+341,10,75598.0,1030535,Caruthers High,No ,No ,19.2
+343,10,76778.0,1038306,Washington High,No ,No ,22.1
+344,10,76778.0,0122473,Elm High,No ,Yes,86.3
+351,11,62646.0,1136209,Princeton High,No ,No ,25.0
+352,11,62653.0,1132109,Elk Creek High,No ,No ,54.2
+353,11,62661.0,1132851,Willows High,No ,No ,20.9
+355,11,75481.0,1135656,Orland High,No ,No ,13.2
+357,11,76562.0,1133701,Hamilton High,No ,No ,13.9
+364,12,10124.0,0106203,Humboldt County Office of Education Juvenile Hall Court,No ,Yes,0.0
+368,12,62687.0,0107110,Six Rivers Charter High,Yes,No ,29.3
+370,12,62687.0,1230705,Arcata High,No ,No ,30.8
+371,12,62687.0,1235209,McKinleyville High,No ,No ,40.7
+374,12,62810.0,0108688,Academy of the Redwoods,No ,No ,13.6
+375,12,62810.0,1233402,Fortuna Union High,No ,No ,26.6
+377,12,62901.0,1234004,Hoopa Valley High,No ,No ,77.5
+382,12,63040.0,1237007,South Fork High,No ,No ,41.6
+384,12,75374.0,1232909,Ferndale High,No ,No ,22.1
+385,12,75382.0,1230085,Mattole Triple Junction High,No ,No ,*
+387,12,75515.0,1232206,Eureka Senior High,No ,No ,23.7
+391,13,10132.0,1330117,Imperial County Juvenile Hall/Community,No ,Yes,0.0
+393,13,63081.0,1331404,Brawley Union High,No ,No ,20.1
+397,13,63099.0,1332204,Calexico High,No ,No ,29.1
+398,13,63099.0,1332154,Aurora High (Continuation),No ,Yes,59.9
+399,13,63107.0,1332501,Calipatria High,No ,No ,26.0
+402,13,63115.0,1330133,Southwest High,No ,No ,19.4
+403,13,63115.0,1333004,Central Union High,No ,No ,11.3
+406,13,63149.0,1335306,Holtville High,No ,No ,18.3
+408,13,63164.0,1335900,Imperial High,No ,No ,20.3
+411,13,63214.0,1337609,San Pasqual Valley High,No ,No ,31.1
+413,14,10140.0,0117994,YouthBuild Charter School of California,Yes,Yes,82.8
+414,14,10140.0,0128447,The Education Corps,Yes,Yes,80.6
+415,14,10140.0,0128454,College Bridge Academy,Yes,Yes,74.8
+417,14,63248.0,1431352,Big Pine High,No ,No ,50.0
+419,14,63289.0,1434901,Lone Pine High,No ,No ,40.4
+420,14,63297.0,1436203,Owens Valley High,No ,No ,33.3
+422,14,76687.0,1431600,Bishop Union High,No ,No ,22.9
+423,14,76687.0,0119081,Bishop Independent Study,No ,Yes,70.8
+433,15,63412.0,0100529,Cesar E. Chavez High,No ,No ,15.9
+434,15,63412.0,0116384,Robert F. Kennedy High,No ,No ,18.0
+435,15,63412.0,1531672,Delano High,No ,No ,19.2
+437,15,63529.0,0100198,Golden Valley High,No ,No ,14.1
+438,15,63529.0,0110999,Frontier High,No ,No ,12.6
+439,15,63529.0,0116392,Independence High,No ,No ,15.3
+440,15,63529.0,0116400,Mira Monte High,No ,No ,17.9
+441,15,63529.0,0141101,Del Oro High,No ,No ,29.8
+442,15,63529.0,1530252,Arvin High,No ,No ,22.6
+443,15,63529.0,1530344,Stockdale High,No ,No ,11.4
+444,15,63529.0,1530369,Centennial High,No ,No ,11.7
+445,15,63529.0,1530385,Ridgeview High,No ,No ,13.5
+446,15,63529.0,1530476,Liberty High,No ,No ,13.0
+447,15,63529.0,1530708,Bakersfield High,No ,No ,19.2
+448,15,63529.0,1532290,East Bakersfield High,No ,No ,26.3
+449,15,63529.0,1532605,Foothill High,No ,No ,20.8
+450,15,63529.0,1533330,Highland High,No ,No ,16.1
+451,15,63529.0,1533538,Kern Valley High,No ,No ,32.6
+452,15,63529.0,1534775,North High,No ,No ,26.9
+453,15,63529.0,1535087,Shafter High,No ,No ,20.2
+454,15,63529.0,1535392,South High,No ,No ,16.7
+455,15,63529.0,1536606,West High,No ,No ,22.8
+465,15,63628.0,1533843,Maricopa High,No ,No ,37.9
+466,15,63628.0,0127209,Insight School of California,Yes,Yes,30.3
+467,15,63677.0,0114512,California City High,No ,No ,51.0
+473,15,63776.0,1534957,Rosamond High Early College Campus,No ,No ,27.3
+475,15,63818.0,1535905,Taft Union High,No ,No ,21.1
+477,15,63826.0,1536135,Tehachapi High,No ,No ,28.7
+479,15,63859.0,1536440,Wasco High,No ,No ,17.0
+481,15,73742.0,1531367,Burroughs High,No ,No ,26.2
+484,15,73908.0,1534155,McFarland High School Early College,No ,No ,9.6
+485,15,73908.0,1530146,San Joaquin High (Continuation),No ,Yes,73.2
+486,15,75168.0,1530401,Frazier Mountain High,No ,No ,23.5
+492,16,63891.0,1632207,Corcoran High,No ,No ,18.8
+495,16,63925.0,0118919,Sierra Pacific High,No ,No ,14.0
+496,16,63925.0,0137901,Hanford Online Charter,Yes,No ,39.7
+497,16,63925.0,1630169,Hanford West High,No ,No ,18.1
+498,16,63925.0,1634401,Hanford High,No ,No ,21.9
+499,16,63925.0,1630151,Hanford Community Day,No ,Yes,80.0
+501,16,63958.0,0136556,Kings Valley Academy II,Yes,Yes,69.0
+502,16,63982.0,0110205,Lemoore Middle College High,Yes,No ,7.5
+503,16,63982.0,0136234,Lemoore Online College Preparatory High,Yes,No ,35.8
+504,16,63982.0,1635606,Lemoore High,No ,No ,13.8
+506,16,73932.0,1630953,Avenal High,No ,No ,15.0
+512,17,64014.0,1734359,Kelseyville High,No ,No ,23.9
+516,17,64022.0,1735000,Lower Lake High,No ,No ,42.7
+520,17,64030.0,1732304,Clear Lake High,No ,No ,35.5
+524,17,64055.0,1736008,Middletown High,No ,No ,30.0
+526,17,76976.0,1737006,Upper Lake High,No ,No ,36.8
+531,18,64139.0,1833805,Lassen High,No ,No ,22.5
+534,18,64204.0,1838507,Westwood High,No ,No ,29.3
+536,18,75036.0,1833409,Herlong High,No ,No ,50.0
+542,19,10199.0,0134346,Intellectual Virtues Academy,Yes,No ,58.3
+544,19,10199.0,0136119,Animo City of Champions Charter High,Yes,No ,27.5
+546,19,10199.0,0140681,Environmental Charter High - Gardena,Yes,No ,22.2
+552,19,10199.0,0121939,"Rockey, Glenn Camp",No ,Yes,0.0
+554,19,10199.0,0138669,Da Vinci RISE High,Yes,Yes,67.7
+555,19,10199.0,1933399,L.A. County High School for the Arts,No ,Yes,20.3
+556,19,10199.0,1995869,International Polytechnic High,No ,Yes,9.9
+558,19,64212.0,1930056,Cerritos High,No ,No ,10.8
+559,19,64212.0,1930361,Artesia High,No ,No ,24.7
+561,19,64212.0,1933159,Gahr (Richard) High,No ,No ,14.8
+562,19,64212.0,1995596,ABC Secondary (Alternative),No ,No ,29.4
+563,19,64212.0,1931641,Tracy (Wilbur) High (Continuation),No ,Yes,65.2
+564,19,64246.0,0100081,William J. (Pete) Knight High,No ,No ,24.9
+565,19,64246.0,0108407,Eastside High,No ,No ,30.3
+566,19,64246.0,0111872,SOAR High (Students On Academic Rise),No ,No ,3.4
+568,19,64246.0,1930213,Antelope Valley High,No ,No ,36.5
+569,19,64246.0,1936624,Palmdale High,No ,No ,31.6
+570,19,64246.0,1937051,Quartz Hill High,No ,No ,18.1
+571,19,64246.0,1995398,Highland High,No ,No ,20.5
+572,19,64246.0,1995406,Littlerock High,No ,No ,31.3
+573,19,64246.0,1995844,Lancaster High,No ,No ,28.2
+574,19,64246.0,1931732,Desert Winds Continuation High,No ,Yes,76.7
+575,19,64246.0,1995968,Phoenix High Community Day,No ,Yes,86.0
+576,19,64246.0,1996537,Desert Sands Charter,Yes,Yes,62.3
+578,19,64261.0,1930288,Arcadia High,No ,No ,6.6
+580,19,64279.0,1930528,Azusa High,No ,No ,30.9
+582,19,64287.0,1930601,Baldwin Park High,No ,No ,17.0
+583,19,64287.0,1938166,Sierra Vista High,No ,No ,16.5
+585,19,64287.0,1996479,Opportunities for Learning - Baldwin Park,Yes,Yes,36.8
+586,19,64295.0,1930700,Bassett Senior High,No ,No ,25.4
+593,19,64311.0,1930981,Beverly Hills High,No ,No ,16.6
+596,19,64329.0,1931088,Bonita High,No ,No ,10.2
+597,19,64329.0,1937739,San Dimas High,No ,No ,16.6
+600,19,64337.0,0131573,Burbank Unified Independent Learning Academy (BUILA),No ,No ,40.9
+601,19,64337.0,1931187,Burbank High,No ,No ,19.9
+602,19,64337.0,1931237,Burroughs High,No ,No ,14.4
+603,19,64337.0,1995877,Magnolia Park,No ,No ,89.5
+605,19,64352.0,0118521,Centinela Valley Independent Study,No ,No ,44.5
+606,19,64352.0,1933951,Hawthorne High,No ,No ,28.5
+607,19,64352.0,1934926,Lawndale High,No ,No ,33.4
+608,19,64352.0,1935048,Leuzinger High,No ,No ,19.3
+609,19,64352.0,0128488,Family First Charter,Yes,Yes,88.7
+610,19,64352.0,0128496,New Opportunities Charter,Yes,Yes,73.9
+612,19,64378.0,1931666,Charter Oak High,No ,No ,16.7
+614,19,64378.0,1930312,Arrow High (Continuation),No ,Yes,76.4
+616,19,64394.0,1931823,Claremont High,No ,No ,17.1
+619,19,64436.0,1932086,Covina High,No ,No ,21.0
+620,19,64436.0,1936418,Northview High,No ,No ,16.9
+621,19,64436.0,1938372,South Hills High,No ,No ,15.3
+623,19,64444.0,1932201,Culver City High,No ,No ,12.5
+625,19,64451.0,1932441,Downey High,No ,No ,17.8
+626,19,64451.0,1939164,Warren (Earl) High,No ,No ,23.9
+629,19,64469.0,0134858,California School of the Arts - San Gabriel Valley,Yes,No ,11.9
+630,19,64469.0,1932482,Duarte High,No ,No ,13.5
+634,19,64519.0,1930320,Arroyo High,No ,No ,15.9
+635,19,64519.0,1932664,El Monte High,No ,No ,15.7
+636,19,64519.0,1932680,Mountain View High,No ,No ,22.6
+637,19,64519.0,1937481,Rosemead High,No ,No ,14.1
+638,19,64519.0,1995661,South El Monte High,No ,No ,19.8
+640,19,64519.0,1996123,El Monte Union High School Community Day,No ,Yes,91.3
+641,19,64527.0,1932706,El Rancho High,No ,No ,16.4
+643,19,64535.0,1932763,El Segundo High,No ,No ,12.4
+644,19,64535.0,1930353,Arena High (Continuation),No ,Yes,49.0
+645,19,64568.0,1932144,Crescenta Valley High,No ,No ,13.1
+646,19,64568.0,1933530,Glendale High,No ,No ,18.9
+647,19,64568.0,1934082,Herbert Hoover High,No ,No ,22.3
+649,19,64568.0,1996131,Anderson W. Clark Magnet High,No ,No ,6.1
+653,19,64576.0,1933597,Glendora High,No ,No ,8.8
+654,19,64576.0,1939677,Whitcomb Continuation High,No ,Yes,59.7
+656,19,64592.0,0100354,Hawthorne Math and Science Academy,Yes,No ,8.0
+657,19,64634.0,1934231,Inglewood High,No ,No ,43.7
+659,19,64634.0,1996529,City Honors International Preparatory High,Yes,No ,25.1
+660,19,64634.0,1996586,Animo Inglewood Charter High,Yes,No ,19.6
+664,19,64683.0,1930080,Agoura High,No ,No ,14.6
+665,19,64683.0,1931781,Calabasas High,No ,No ,14.0
+666,19,64691.0,1996438,Environmental Charter High - Lawndale,Yes,No ,12.8
+667,19,64709.0,0100602,"Lennox Mathematics, Science and Technology Academy",Yes,No ,9.5
+668,19,64709.0,1996313,Animo Leadership High,Yes,No ,11.0
+669,19,64725.0,0127381,"Ernest S. McBride, Sr. High",No ,No ,19.0
+670,19,64725.0,0132324,Eunice Sato Academy of Math & Science,No ,No ,7.4
+671,19,64725.0,0135525,Richard D. Browning High,No ,No ,33.7
+673,19,64725.0,1934470,Jordan High,No ,No ,28.3
+674,19,64725.0,1934678,Lakewood High,No ,No ,29.1
+675,19,64725.0,1935758,Millikan High,No ,No ,18.0
+676,19,64725.0,1936947,Polytechnic High,No ,No ,32.2
+677,19,64725.0,1939875,Wilson High,No ,No ,34.8
+678,19,64725.0,1995539,California Academy of Mathematics and Science,No ,No ,6.8
+680,19,64725.0,1995935,Cabrillo High,No ,No ,44.5
+681,19,64725.0,1996503,Renaissance High School for the Arts,No ,No ,22.2
+682,19,64725.0,0131938,Clear Passage Educational Center,Yes,Yes,18.6
+684,19,64733.0,0100677,High Tech LA,Yes,No ,11.4
+685,19,64733.0,0100750,Wallis Annenberg High,Yes,No ,16.9
+686,19,64733.0,0100800,Central City Value,Yes,No ,21.6
+687,19,64733.0,0101196,ICEF View Park Preparatory High,Yes,No ,17.7
+688,19,64733.0,0101659,"CATCH Prep Charter High, Inc.",Yes,No ,1.4
+689,19,64733.0,0101675,Oscar De La Hoya Animo Charter High,Yes,No ,24.3
+691,19,64733.0,0102434,Animo South Los Angeles Charter,Yes,No ,30.2
+693,19,64733.0,0102913,Middle College High,No ,No ,20.2
+694,19,64733.0,0102921,Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,No ,No ,4.4
+695,19,64733.0,0106831,Animo Venice Charter High,Yes,No ,22.3
+696,19,64733.0,0106849,Animo Pat Brown,Yes,No ,20.1
+698,19,64733.0,0106997,Orthopaedic Hospital,No ,No ,11.6
+699,19,64733.0,0107003,Northridge Academy High,No ,No ,23.2
+701,19,64733.0,0107755,Port of Los Angeles High,Yes,No ,9.9
+702,19,64733.0,0108878,CHAMPS - Charter HS of Arts-Multimedia & Performing,Yes,No ,35.8
+703,19,64733.0,0108894,Alliance Judy Ivie Burton Technology Academy High,Yes,No ,4.4
+705,19,64733.0,0108936,Alliance Collins Family College-Ready High,Yes,No ,15.5
+706,19,64733.0,0109447,Santee Education Complex,No ,No ,40.2
+707,19,64733.0,0109454,South East High,No ,No ,37.7
+708,19,64733.0,0109462,Maywood Academy High,No ,No ,34.3
+710,19,64733.0,0111492,Alliance Patti And Peter Neuwirth Leadership Academy,Yes,No ,9.8
+711,19,64733.0,0111500,Alliance Dr. Olga Mohan High,Yes,No ,18.0
+712,19,64733.0,0111575,Animo Ralph Bunche Charter High,Yes,No ,22.1
+713,19,64733.0,0111583,Animo Jackie Robinson High,Yes,No ,18.0
+714,19,64733.0,0111625,Animo Watts College Preparatory Academy,Yes,No ,25.7
+716,19,64733.0,0111658,Alliance Marc & Eva Stern Math and Science,Yes,No ,16.0
+717,19,64733.0,0112029,School of Business and Tourism at Contreras Learning Complex,No ,No ,28.1
+718,19,64733.0,0112037,East Valley Senior High,No ,No ,23.9
+719,19,64733.0,0112045,Arleta High,No ,No ,24.8
+720,19,64733.0,0112052,Panorama High,No ,No ,40.0
+721,19,64733.0,0112508,Stella High Charter Academy,Yes,No ,29.4
+722,19,64733.0,0112870,Contreras Learning Center-Los Angeles School of Global Studies,No ,No ,41.5
+723,19,64733.0,0114850,West Adams Preparatory High,No ,No ,38.1
+724,19,64733.0,0115253,Discovery Charter Preparatory #2,Yes,No ,36.8
+725,19,64733.0,0116509,Alliance Morgan McKinzie High,Yes,No ,22.2
+726,19,64733.0,0117051,Edward R. Roybal Learning Center,No ,No ,35.1
+727,19,64733.0,0117069,Helen Bernstein High,No ,No ,38.5
+728,19,64733.0,0117598,Alliance Piera Barbaglia Shaheen Health Services Academy,Yes,No ,34.1
+729,19,64733.0,0117606,Alliance Leichtman-Levine Family Foundation Environmental Science High,Yes,No ,29.4
+731,19,64733.0,0117721,Contreras Learning Center-Academic Leadership Community,No ,No ,31.0
+732,19,64733.0,0117747,Los Angeles High School of the Arts,No ,No ,28.5
+733,19,64733.0,0117762,School for the Visual Arts and Humanities,No ,No ,30.0
+734,19,64733.0,0117911,New Millennium Secondary,Yes,No ,31.9
+735,19,64733.0,0118588,Alain Leroy Locke College Preparatory Academy,Yes,No ,46.8
+738,19,64733.0,0119727,Ramon C. Cortines School of Visual and Performing Arts,No ,No ,34.7
+739,19,64733.0,0119966,Felicitas and Gonzalo Mendez High,No ,No ,46.5
+741,19,64733.0,0120360,Daniel Pearl Journalism & Communications Magnet,No ,No ,28.9
+743,19,64733.0,0121285,Alliance Cindy and Bill Simon Technology Academy High,Yes,No ,24.9
+745,19,64733.0,0122333,"Math, Science, & Technology Magnet Academy at Roosevelt High",No ,No ,14.8
+746,19,64733.0,0122341,Esteban Torres East LA Performing Arts Magnet,No ,No ,29.3
+747,19,64733.0,0122358,Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4,No ,No ,35.0
+748,19,64733.0,0122366,Social Justice Leadership Academy Magnet at Esteban E. Torres High No 5,No ,No ,20.2
+749,19,64733.0,0122374,East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2,No ,No ,39.2
+750,19,64733.0,0122382,Engineering and Technology Academy at Esteban E. Torres High No. 3,No ,No ,34.7
+751,19,64733.0,0122606,PUC Lakeview Charter High,Yes,No ,22.0
+753,19,64733.0,0123133,Alliance Susan and Eric Smidt Technology High,Yes,No ,28.4
+754,19,64733.0,0123141,Alliance Ted K. Tajima High,Yes,No ,15.0
+755,19,64733.0,0124362,Valley Academy of Arts and Sciences,No ,No ,24.4
+756,19,64733.0,0124370,Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,No ,No ,25.6
+757,19,64733.0,0124388,Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,No ,No ,28.0
+758,19,64733.0,0124396,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),No ,No ,28.6
+759,19,64733.0,0124404,Cesar E. Chavez Learning Academies-Technology Preparatory Academy,No ,No ,29.1
+761,19,64733.0,0124479,Dr. Maya Angelou Community High,No ,No ,40.9
+762,19,64733.0,0124487,Public Service Community at Diego Rivera Learning Complex,No ,No ,31.3
+763,19,64733.0,0124495,Communication and Technology at Diego Rivera Learning Complex,No ,No ,41.0
+764,19,64733.0,0124503,Diego Rivera Learning Complex Green Design STEAM Academy,No ,No ,38.3
+765,19,64733.0,0124511,Performing Arts Community at Diego Rivera Learning Complex,No ,No ,42.5
+768,19,64733.0,0124891,Alliance Renee and Meyer Luskin Academy High,Yes,No ,33.8
+769,19,64733.0,0124933,PUC Early College Academy for Leaders and Scholars (ECALS),Yes,No ,47.3
+770,19,64733.0,0124941,Alliance Margaret M. Bloomfield Technology Academy High,Yes,No ,27.3
+771,19,64733.0,0125864,Ednovate - USC Hybrid High College Prep,Yes,No ,8.6
+772,19,64733.0,0125989,STEM Academy at Bernstein High,No ,No ,21.1
+773,19,64733.0,0126136,Math and Science College Preparatory,Yes,No ,31.6
+774,19,64733.0,0126482,Augustus Hawkins High,No ,No ,54.8
+775,19,64733.0,0126516,Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine,No ,No ,8.0
+776,19,64733.0,0126524,Linda Esperanza Marquez High B LIBRA Academy,No ,No ,18.2
+777,19,64733.0,0126532,Linda Esperanza Marquez High C School of Social Justice,No ,No ,32.9
+778,19,64733.0,0126540,"Science, Technology, Engineering, Arts and Mathematics at Legacy High School Complex",No ,No ,13.1
+779,19,64733.0,0126557,Visual and Performing Arts at Legacy High School Complex,No ,No ,37.1
+780,19,64733.0,0126573,Mervyn M. Dymally High,No ,No ,47.9
+781,19,64733.0,0126615,Academies of Education and Empowerment at Carson High,No ,No ,17.9
+782,19,64733.0,0126623,Academy of Medical Arts at Carson High,No ,No ,17.8
+783,19,64733.0,0127787,Humanities and Arts (HARTS) Academy of Los Angeles,No ,No ,28.4
+784,19,64733.0,0127795,Contreras Learning Center-School of Social Justice,No ,No ,35.5
+785,19,64733.0,0127803,Early College Academy-LA Trade Tech College,No ,No ,6.6
+786,19,64733.0,0127894,Valor Academy High,Yes,No ,20.4
+787,19,64733.0,0127910,Camino Nuevo High #2,Yes,No ,23.0
+788,19,64733.0,0129536,Boyle Heights Hilda Solis High,No ,No ,33.8
+789,19,64733.0,0129585,Nava College Preparatory Academy,No ,No ,23.8
+790,19,64733.0,0129627,TEACH Tech Charter High,Yes,No ,43.6
+791,19,64733.0,0130997,Sylmar Biotech Health and Engineering Magnet,No ,No ,24.8
+792,19,64733.0,0131821,Collegiate Charter High School of Los Angeles,Yes,No ,35.1
+793,19,64733.0,0132027,University Preparatory Value High,Yes,No ,16.4
+795,19,64733.0,0132126,Bert Corona Charter High,Yes,No ,32.8
+796,19,64733.0,0132282,Ednovate - East College Prep,Yes,No ,20.2
+802,19,64733.0,0133868,Rise Kohyang High,Yes,No ,25.2
+803,19,64733.0,0135632,WISH Academy High,Yes,No ,15.2
+805,19,64733.0,0135715,Ednovate - Esperanza College Prep,Yes,No ,12.0
+806,19,64733.0,0135723,Ednovate - Brio College Prep,Yes,No ,20.9
+809,19,64733.0,0137083,University Pathways Medical Magnet Academy,No ,No ,39.6
+810,19,64733.0,0137091,University Pathways Public Service Academy,No ,No ,38.5
+811,19,64733.0,0137612,Valley International Preparatory High,Yes,No ,14.8
+813,19,64733.0,0140129,Ednovate - South LA College Prep,Yes,No ,30.3
+820,19,64733.0,0141630,Iovine and Young Center,No ,No ,24.0
+822,19,64733.0,1930650,Phineas Banning Senior High,No ,No ,34.3
+823,19,64733.0,1930866,Bell Senior High,No ,No ,28.9
+824,19,64733.0,1930924,Belmont Senior High,No ,No ,40.4
+825,19,64733.0,1931047,Birmingham Community Charter High,Yes,No ,21.1
+826,19,64733.0,1931476,Canoga Park Senior High,No ,No ,29.4
+827,19,64733.0,1931526,Carson Senior High,No ,No ,21.1
+829,19,64733.0,1931708,Chatsworth Charter High,Yes,No ,27.4
+831,19,64733.0,1931864,Grover Cleveland Charter High,Yes,No ,25.3
+832,19,64733.0,1932128,"Crenshaw Science, Technology, Engineering, Math and Medicine Magnet",No ,No ,44.8
+833,19,64733.0,1932383,Susan Miller Dorsey Senior High,No ,No ,52.8
+835,19,64733.0,1932623,El Camino Real Charter High,Yes,No ,26.5
+837,19,64733.0,1932888,Downtown Business High,No ,No ,15.2
+838,19,64733.0,1932920,Fairfax Senior High,No ,No ,36.1
+839,19,64733.0,1932987,John H. Francis Polytechnic,No ,No ,30.2
+840,19,64733.0,1933001,King/Drew Medical Magnet High,No ,No ,20.6
+842,19,64733.0,1933118,John C. Fremont Senior High,No ,No ,42.5
+844,19,64733.0,1933241,Gardena Senior High,No ,No ,36.2
+845,19,64733.0,1933381,James A. Garfield Senior High,No ,No ,11.8
+847,19,64733.0,1933795,Ulysses S. Grant Senior High,No ,No ,35.3
+848,19,64733.0,1933852,Alexander Hamilton Senior High,No ,No ,30.7
+849,19,64733.0,1934033,Hollywood Senior High,No ,No ,43.1
+850,19,64733.0,1934157,Huntington Park Senior High,No ,No ,36.8
+851,19,64733.0,1934371,Thomas Jefferson Senior High,No ,No ,30.7
+852,19,64733.0,1934454,Jordan High,No ,No ,49.1
+853,19,64733.0,1935121,Abraham Lincoln Senior High,No ,No ,27.0
+854,19,64733.0,1935352,Los Angeles Senior High,No ,No ,45.2
+855,19,64733.0,1935519,Manual Arts Senior High,No ,No ,36.2
+856,19,64733.0,1935568,John Marshall Senior High,No ,No ,32.7
+858,19,64733.0,1935865,James Monroe High,No ,No ,40.3
+859,19,64733.0,1936160,Nathaniel Narbonne Senior High,No ,No ,27.8
+860,19,64733.0,1936350,North Hollywood Senior High,No ,No ,31.4
+862,19,64733.0,1937424,Theodore Roosevelt Senior High,No ,No ,32.9
+863,19,64733.0,1937622,San Fernando Senior High,No ,No ,32.7
+864,19,64733.0,1937838,San Pedro Senior High,No ,No ,25.0
+865,19,64733.0,1938307,South Gate Senior High,No ,No ,35.3
+866,19,64733.0,1938554,Sylmar Charter High,Yes,No ,27.4
+867,19,64733.0,1938612,Taft Charter High,Yes,No ,24.5
+868,19,64733.0,1938885,University High School Charter,Yes,No ,32.5
+869,19,64733.0,1938968,Van Nuys Senior High,No ,No ,30.2
+870,19,64733.0,1939040,Venice Senior High,No ,No ,30.3
+871,19,64733.0,1939107,Verdugo Hills Senior High,No ,No ,27.3
+872,19,64733.0,1939305,George Washington Preparatory High,No ,No ,48.7
+873,19,64733.0,1939479,WESM Health/Sports Medicine,No ,No ,46.6
+874,19,64733.0,1939859,Woodrow Wilson Senior High,No ,No ,39.0
+875,19,64733.0,1939941,John F. Kennedy High,No ,No ,19.6
+876,19,64733.0,1995448,Francisco Bravo Medical Magnet High,No ,No ,16.1
+877,19,64733.0,1995836,Palisades Charter High,Yes,No ,11.9
+893,19,64733.0,0109512,Cal Burke High,No ,Yes,79.7
+894,19,64733.0,0110668,Frida Kahlo High,No ,Yes,82.1
+895,19,64733.0,0111484,New Village Girls Academy,Yes,Yes,84.9
+897,19,64733.0,0120808,Dorothy V. Johnson Community Day,No ,Yes,75.9
+898,19,64733.0,0137562,Matrix for Success Academy,Yes,Yes,36.7
+900,19,64733.0,1930296,Harris Newmark Continuation,No ,Yes,88.5
+901,19,64733.0,1930387,Central High,No ,Yes,89.7
+902,19,64733.0,1930403,Whitney Young Continuation,No ,Yes,66.7
+903,19,64733.0,1930429,View Park Continuation,No ,Yes,86.2
+904,19,64733.0,1930486,Moneta Continuation,No ,Yes,85.2
+905,19,64733.0,1930551,San Antonio Continuation,No ,Yes,87.3
+906,19,64733.0,1930577,Pueblo de Los Angeles Continuation,No ,Yes,93.3
+907,19,64733.0,1930619,Harold McAlister High (Opportunity),No ,Yes,95.2
+908,19,64733.0,1930692,Thomas Riley High,No ,Yes,93.8
+909,19,64733.0,1930734,Angel's Gate (Continuation),No ,Yes,66.4
+911,19,64733.0,1930791,Mt. Lukens Continuation,No ,Yes,80.6
+912,19,64733.0,1930940,John R. Wooden High,No ,Yes,89.0
+913,19,64733.0,1930973,Simon Rodia Continuation,No ,Yes,68.7
+914,19,64733.0,1931336,Cheviot Hills Continuation,No ,Yes,91.5
+916,19,64733.0,1931385,Albert Einstein Continuation,No ,Yes,84.0
+917,19,64733.0,1931393,Highland Park Continuation,No ,Yes,63.3
+918,19,64733.0,1931435,Robert H. Lewis Continuation,No ,Yes,82.3
+919,19,64733.0,1931450,Jack London Continuation,No ,Yes,94.7
+921,19,64733.0,1931484,Mission Continuation,No ,Yes,79.0
+922,19,64733.0,1931500,Owensmouth Continuation,No ,Yes,79.1
+923,19,64733.0,1931518,George S. Patton Continuation,No ,Yes,77.4
+924,19,64733.0,1931534,Will Rogers Continuation,No ,Yes,84.1
+925,19,64733.0,1931559,Stoney Point Continuation,No ,Yes,73.9
+926,19,64733.0,1931682,Zane Grey Continuation,No ,Yes,93.3
+927,19,64733.0,1931690,Independence Continuation,No ,Yes,75.2
+928,19,64733.0,1931856,Whitman Continuation,No ,Yes,81.3
+929,19,64733.0,1931930,Dan M. Issacs Avalon High,No ,Yes,67.4
+930,19,64733.0,1931955,Ellington (Duke) High (Continuation),No ,Yes,89.8
+931,19,64733.0,1931971,John Hope Continuation,No ,Yes,92.1
+932,19,64733.0,1931989,Monterey Continuation,No ,Yes,48.6
+933,19,64733.0,1931997,Odyssey Continuation,No ,Yes,71.5
+934,19,64733.0,1932250,Henry David Thoreau Continuation,No ,Yes,73.3
+936,19,64733.0,1932334,Jane Addams Continuation,No ,Yes,76.4
+937,19,64733.0,1932342,Evergreen Continuation,No ,Yes,80.2
+938,19,64733.0,1932821,Boyle Heights Continuation,No ,Yes,78.0
+939,19,64733.0,1937085,Ramona Opportunity High,No ,Yes,85.7
+941,19,64733.0,1995794,Youth Opportunities Unlimited,No ,Yes,87.7
+942,19,64733.0,1996073,Tri-C Community Day,No ,Yes,85.4
+949,19,64774.0,0109538,Marco Antonio Firebaugh High,No ,No ,20.0
+950,19,64774.0,1935436,Lynwood High,No ,No ,32.2
+952,19,64790.0,1935923,Monrovia High,No ,No ,18.7
+955,19,64808.0,0124552,Applied Technology Center,No ,No ,24.3
+956,19,64808.0,1930155,Schurr High,No ,No ,15.7
+957,19,64808.0,1930825,Bell Gardens High,No ,No ,19.7
+958,19,64808.0,1935998,Montebello High,No ,No ,15.5
+961,19,64840.0,1933647,John H. Glenn High,No ,No ,25.4
+962,19,64840.0,1934728,La Mirada High,No ,No ,19.8
+963,19,64840.0,1936467,Norwalk High,No ,No ,23.3
+966,19,64857.0,0140889,Palmdale Academy Charter,Yes,No ,21.4
+969,19,64865.0,1995588,Palos Verdes Peninsula High,No ,No ,13.5
+970,19,64865.0,1996552,Palos Verdes High,No ,No ,14.2
+972,19,64873.0,0136705,Odyssey STEM Academy,No ,No ,12.6
+973,19,64873.0,1936749,Paramount High,No ,No ,19.9
+980,19,64881.0,1936103,John Muir High,No ,No ,20.4
+981,19,64881.0,1936822,Pasadena High,No ,No ,26.0
+984,19,64907.0,1933175,Ganesha High,No ,No ,28.7
+985,19,64907.0,1933324,Garey High,No ,No ,29.8
+986,19,64907.0,1937028,Pomona High,No ,No ,30.8
+987,19,64907.0,1995901,Diamond Ranch High,No ,No ,23.6
+988,19,64907.0,1996495,Village Academy High School at Indian Hill,No ,No ,23.7
+994,19,64964.0,1937754,San Marino High,No ,No ,0.7
+995,19,64980.0,1938000,Santa Monica High,No ,No ,20.5
+996,19,64980.0,1995737,Malibu High,No ,No ,26.7
+997,19,64980.0,1933373,Olympic High (Continuation),No ,Yes,77.8
+998,19,65029.0,1938455,South Pasadena Senior High,No ,No ,9.9
+999,19,65052.0,1938679,Temple City High,No ,No ,7.7
+1002,19,65060.0,1936277,North High,No ,No ,13.7
+1003,19,65060.0,1938356,South High,No ,No ,11.3
+1004,19,65060.0,1938752,Torrance High,No ,No ,11.3
+1005,19,65060.0,1939602,West High,No ,No ,8.0
+1009,19,65094.0,0122432,Edgewood High,No ,No ,13.3
+1010,19,65094.0,0137042,Mt. SAC Early College Academy at West Covina,No ,No ,2.2
+1011,19,65094.0,1939537,West Covina High,No ,No ,13.0
+1013,19,65128.0,1931302,California High,No ,No ,18.2
+1014,19,65128.0,1934868,La Serna High,No ,No ,14.2
+1015,19,65128.0,1936889,Pioneer High,No ,No ,22.0
+1016,19,65128.0,1937903,Santa Fe High,No ,No ,18.0
+1017,19,65128.0,1939701,Whittier High,No ,No ,26.0
+1019,19,65128.0,1995653,Sierra Vista High (Alternative),No ,Yes,69.2
+1020,19,65136.0,0102459,Golden Valley High,No ,No ,18.6
+1021,19,65136.0,0102475,West Ranch High,No ,No ,13.6
+1024,19,65136.0,1931492,Canyon High,No ,No ,16.0
+1025,19,65136.0,1931740,Saugus High,No ,No ,14.0
+1027,19,65136.0,1933902,William S. Hart High,No ,No ,10.6
+1028,19,65136.0,1995802,Valencia High,No ,No ,13.3
+1029,19,65136.0,1996321,Academy of the Canyons,No ,No ,1.6
+1034,19,73437.0,0132969,Compton Early College High,No ,No ,0.9
+1036,19,73437.0,1931567,Centennial High,No ,No ,22.7
+1037,19,73437.0,1931963,Compton High,No ,No ,33.3
+1038,19,73437.0,1932326,Manuel Dominguez High,No ,No ,22.3
+1040,19,73437.0,1996057,Thurgood Marshall,No ,No ,89.3
+1041,19,73437.0,1995695,Cesar Chavez Continuation High,No ,Yes,98.6
+1043,19,73445.0,1934801,La Puente High,No ,No ,30.3
+1044,19,73445.0,1935246,Los Altos High,No ,No ,16.7
+1045,19,73445.0,1939834,Glen A. Wilson High,No ,No ,16.4
+1046,19,73445.0,1939925,William Workman High,No ,No ,23.0
+1048,19,73445.0,1996560,Valley Community Day,No ,Yes,76.5
+1050,19,73452.0,1936228,Nogales High,No ,No ,21.5
+1051,19,73452.0,1937564,John A. Rowland High,No ,No ,13.5
+1054,19,73460.0,1932862,Diamond Bar High,No ,No ,10.3
+1055,19,73460.0,1939149,Walnut High,No ,No ,10.3
+1057,19,75291.0,1995810,Gabrielino High,No ,No ,14.9
+1066,19,75309.0,1995786,Vasquez High,No ,No ,31.9
+1067,19,75309.0,0127100,Assurance Learning Academy,Yes,Yes,63.9
+1069,19,75309.0,0134619,Empower Generations,Yes,Yes,41.8
+1072,19,75333.0,1935808,Mira Costa High,No ,No ,14.7
+1074,19,75341.0,1937143,Redondo Union High,No ,No ,12.9
+1078,19,75713.0,1930163,Alhambra High,No ,No ,13.2
+1079,19,75713.0,1934553,Mark Keppel High,No ,No ,1.8
+1080,19,75713.0,1937697,San Gabriel High,No ,No ,10.8
+1081,19,76869.0,0119016,Da Vinci Science,Yes,No ,12.1
+1082,19,76869.0,0119636,Da Vinci Design,Yes,No ,10.6
+1084,19,76869.0,0131128,Da Vinci Communications,Yes,No ,19.0
+1090,20,65201.0,2032357,Chowchilla Union High,No ,No ,18.0
+1092,20,65243.0,0110965,Madera South High,No ,No ,29.1
+1093,20,65243.0,0118950,Sherman Thomas Charter High,Yes,No ,20.0
+1095,20,65243.0,0139691,Matilda Torres High,No ,No ,29.1
+1097,20,65243.0,2035707,Madera High,No ,No ,21.5
+1100,20,75580.0,0111443,Centennial Independent Study,No ,No ,36.6
+1102,20,75580.0,2030203,Liberty High,No ,No ,13.9
+1105,20,75606.0,0117010,Minarets High,No ,No ,32.8
+1106,20,75606.0,0125021,Minarets Charter High,Yes,No ,31.8
+1108,20,75606.0,0100180,Mountain Oaks High,No ,Yes,65.0
+1110,20,76414.0,2030013,Yosemite High,No ,No ,35.7
+1111,20,76414.0,2030070,Raymond Granite High,No ,No ,*
+1112,20,76414.0,2030104,Evergreen High,No ,No ,44.1
+1113,20,76414.0,2030237,Glacier High School Charter,Yes,No ,3.3
+1120,21,65417.0,2132272,Novato High,No ,No ,21.1
+1121,21,65417.0,2133056,San Marin High,No ,No ,16.9
+1123,21,65466.0,2133262,San Rafael High,No ,No ,13.7
+1124,21,65466.0,2134005,Terra Linda High,No ,No ,18.6
+1126,21,65482.0,2130078,Tamiscal High (Alternative),No ,No ,12.1
+1127,21,65482.0,2131340,Archie Williams High,No ,No ,17.9
+1128,21,65482.0,2132587,Redwood High,No ,No ,9.4
+1129,21,65482.0,2133692,Tamalpais High,No ,No ,16.7
+1131,21,73361.0,2134310,Tomales High,No ,No ,27.9
+1132,22,10223.0,2230100,County Community,No ,Yes,*
+1134,22,65532.0,2230076,Coulterville High,No ,No ,*
+1136,22,65532.0,2235356,Mariposa County High,No ,No ,35.7
+1144,23,65565.0,2331361,Fort Bragg High,No ,No ,20.1
+1147,23,65581.0,2333185,Mendocino High,No ,No ,25.1
+1148,23,65599.0,2333649,Point Arena High,No ,No ,58.2
+1150,23,65607.0,2334563,Round Valley High,No ,No ,50.8
+1151,23,65607.0,2330033,Round Valley Continuation,No ,Yes,96.8
+1155,23,65615.0,2335024,Ukiah High,No ,No ,24.3
+1158,23,65623.0,0136887,Sanhedrin Alternative,No ,No ,46.5
+1160,23,65623.0,2335487,Willits High,No ,No ,42.7
+1161,23,73866.0,2330041,Potter Valley High,No ,No ,19.0
+1163,23,73916.0,2332260,Laytonville High,No ,No ,38.2
+1164,23,75218.0,2330207,Whale Gulch High,No ,No ,*
+1165,23,75218.0,2332724,Leggett Valley High,No ,No ,29.4
+1170,24,10249.0,2430163,Valley Los Banos Community,No ,Yes,67.9
+1174,24,65698.0,2432409,Hilmar High,No ,No ,15.9
+1176,24,65730.0,2433001,Le Grand High,No ,No ,7.6
+1179,24,65755.0,0120923,Pacheco High,No ,No ,26.3
+1180,24,65755.0,2434207,Los Banos High,No ,No ,22.9
+1182,24,65789.0,0127373,El Capitan High,No ,No ,24.7
+1183,24,65789.0,2430049,Independence High (Alternative),No ,No ,38.0
+1184,24,65789.0,2430098,Golden Valley High,No ,No ,30.2
+1185,24,65789.0,2430205,Buhach Colony High,No ,No ,22.3
+1186,24,65789.0,2430601,Atwater High,No ,No ,20.7
+1187,24,65789.0,2433605,Livingston High,No ,No ,24.6
+1188,24,65789.0,2435204,Merced High,No ,No ,28.5
+1191,24,73619.0,2431807,Gustine High,No ,No ,28.9
+1193,24,75317.0,2431203,Dos Palos High,No ,No ,27.5
+1194,24,75317.0,2430015,Westside High,No ,Yes,88.9
+1195,24,75366.0,2430114,Delhi High,No ,No ,19.3
+1197,25,73585.0,2535409,Modoc High,No ,No ,14.2
+1198,25,73585.0,2530020,Warner High,No ,Yes,94.1
+1201,26,10264.0,0124990,Urban Corps of San Diego County Charter,Yes,No ,24.3
+1202,26,10264.0,2630028,Jan Work Community,No ,Yes,40.0
+1203,26,73668.0,2633006,Coleville High,No ,No ,29.2
+1204,26,73668.0,2635001,Lee Vining High,No ,No ,11.8
+1205,26,73692.0,2630010,Mammoth High,No ,No ,27.8
+1209,27,10272.0,2730117,"Wellington M. Smith, Jr.",No ,Yes,0.0
+1210,27,10272.0,2730265,Salinas Community,No ,Yes,56.4
+1212,27,65987.0,2730414,Carmel High,No ,No ,19.1
+1214,27,66068.0,0141010,Pinnacle Coastal Valley High,No ,No ,85.4
+1215,27,66068.0,2730174,Greenfield High,No ,No ,12.8
+1216,27,66068.0,2732170,King City High,No ,No ,14.1
+1218,27,66092.0,0111435,Marina High,No ,No ,17.3
+1219,27,66092.0,2732808,Monterey High,No ,No ,12.0
+1220,27,66092.0,2735348,Seaside High,No ,No ,17.6
+1224,27,66134.0,2733657,Pacific Grove High,No ,No ,13.0
+1226,27,66159.0,0136697,Rancho San Juan High,No ,No ,16.5
+1227,27,66159.0,2730109,Alisal High,No ,No ,12.0
+1228,27,66159.0,2730166,Everett Alvarez High,No ,No ,17.9
+1229,27,66159.0,2733178,North Salinas High,No ,No ,15.0
+1230,27,66159.0,2734556,Salinas High,No ,No ,12.5
+1234,27,73825.0,2730034,North Monterey County High,No ,No ,29.0
+1239,27,75440.0,2730190,Soledad High,No ,No ,21.3
+1241,27,75473.0,2730885,Gonzales High,No ,No ,36.4
+1242,28,10280.0,2830073,Crossroads Academy,No ,Yes,0.0
+1247,28,66266.0,0121087,American Canyon High,No ,No ,16.0
+1248,28,66266.0,2830016,Vintage High,No ,No ,16.7
+1249,28,66266.0,2830115,New Technology High,No ,No ,23.6
+1250,28,66266.0,2835601,Napa High,No ,No ,17.1
+1252,28,66290.0,2837102,Saint Helena High,No ,No ,11.4
+1253,29,10298.0,0114314,Bitney Prep High,Yes,No ,37.4
+1258,29,66357.0,0112367,William & Marian Ghidotti High,No ,No ,11.5
+1259,29,66357.0,0124834,Sierra Academy of Expeditionary Learning,Yes,No ,22.0
+1260,29,66357.0,2930030,North Point Academy,No ,No ,35.9
+1261,29,66357.0,2930048,Bear River High,No ,No ,16.1
+1262,29,66357.0,2935500,Nevada Union High,No ,No ,27.9
+1267,30,10306.0,0133983,Ednovate - Legacy College Prep.,Yes,No ,15.9
+1272,30,10306.0,0141978,Vista Meridian Global Academy,Yes,No ,37.8
+1275,30,10306.0,0134841,Orange County Workforce Innovation High,Yes,Yes,56.7
+1281,30,66431.0,3030038,Cypress High,No ,No ,13.6
+1282,30,66431.0,3030228,Anaheim High,No ,No ,33.0
+1285,30,66431.0,3033057,Katella High,No ,No ,31.7
+1286,30,66431.0,3033115,John F. Kennedy High,No ,No ,18.9
+1287,30,66431.0,3033784,Loara High,No ,No ,33.1
+1288,30,66431.0,3034204,Magnolia High,No ,No ,30.0
+1289,30,66431.0,3036712,Savanna High,No ,No ,23.9
+1290,30,66431.0,3038239,Western High,No ,No ,27.6
+1293,30,66449.0,3030640,Brea Olinda High,No ,No ,10.7
+1297,30,66464.0,0124131,California Preparatory Academy,No ,No ,5.6
+1299,30,66464.0,3030210,Capistrano Valley High,No ,No ,20.4
+1307,30,66514.0,3030855,Buena Park High,No ,No ,17.2
+1308,30,66514.0,3032505,Fullerton Union High,No ,No ,17.9
+1309,30,66514.0,3033362,La Habra High,No ,No ,15.4
+1310,30,66514.0,3037090,Sonora High,No ,No ,11.9
+1311,30,66514.0,3037348,Sunny Hills High,No ,No ,11.5
+1312,30,66514.0,3037496,Troy High,No ,No ,9.7
+1313,30,66514.0,3030335,La Sierra High (Alternative),No ,Yes,50.4
+1315,30,66522.0,3030434,Bolsa Grande High,No ,No ,13.3
+1316,30,66522.0,3032752,Garden Grove High,No ,No ,13.0
+1317,30,66522.0,3033578,La Quinta High,No ,No ,9.8
+1318,30,66522.0,3033933,Los Amigos High,No ,No ,19.4
+1319,30,66522.0,3035581,Pacifica High,No ,No ,9.6
+1320,30,66522.0,3035706,Rancho Alamitos High,No ,No ,17.0
+1321,30,66522.0,3036555,Santiago High,No ,No ,17.8
+1330,30,66548.0,3030145,Ocean View High,No ,No ,30.0
+1331,30,66548.0,3030368,Coast High,No ,No ,21.9
+1332,30,66548.0,3031895,Edison High,No ,No ,16.4
+1333,30,66548.0,3032158,Fountain Valley High,No ,No ,10.2
+1334,30,66548.0,3032943,Huntington Beach High,No ,No ,19.1
+1335,30,66548.0,3034410,Marina High,No ,No ,19.8
+1336,30,66548.0,3038445,Westminster High,No ,No ,16.6
+1338,30,66555.0,3033206,Laguna Beach High,No ,No ,14.0
+1339,30,66597.0,0111666,Early College High,No ,No ,5.1
+1344,30,66597.0,3035045,Newport Harbor High,No ,No ,15.0
+1345,30,66597.0,3034907,Back Bay High,No ,Yes,82.7
+1347,30,66621.0,3030046,Canyon High,No ,No ,17.2
+1348,30,66621.0,3031952,El Modena High,No ,No ,20.1
+1349,30,66621.0,3035409,Orange High,No ,No ,29.8
+1350,30,66621.0,3038098,Villa Park High,No ,No ,16.7
+1354,30,66647.0,0119404,Yorba Linda High,No ,No ,13.5
+1355,30,66647.0,3030053,Esperanza High,No ,No ,18.0
+1357,30,66647.0,3031929,El Dorado High,No ,No ,13.1
+1358,30,66647.0,3038023,Valencia High,No ,No ,18.2
+1362,30,66670.0,0106567,Nova Academy Early College High,Yes,No ,24.6
+1363,30,66670.0,0108365,Segerstrom High,No ,No ,15.6
+1364,30,66670.0,0114736,Hector G. Godinez,No ,No ,11.9
+1366,30,66670.0,3030491,Century High,No ,No ,27.7
+1367,30,66670.0,3030608,Middle College High,No ,No ,4.9
+1369,30,66670.0,3036357,Santa Ana High,No ,No ,25.5
+1370,30,66670.0,3036456,Valley High,No ,No ,27.0
+1374,30,73635.0,3030061,El Toro High,No ,No ,19.0
+1375,30,73635.0,3030244,Laguna Hills High,No ,No ,15.8
+1376,30,73635.0,3030392,Trabuco Hills High,No ,No ,19.9
+1378,30,73635.0,3034956,Mission Viejo High,No ,No ,14.5
+1380,30,73635.0,3030079,Silverado High,No ,Yes,68.6
+1381,30,73643.0,0102871,Arnold O. Beckman High,No ,No ,11.2
+1384,30,73643.0,3032109,Foothill High,No ,No ,10.2
+1385,30,73643.0,3037553,Tustin High,No ,No ,14.4
+1388,30,73650.0,0133405,Portola High,No ,No ,10.8
+1389,30,73650.0,3030152,Irvine High,No ,No ,8.4
+1390,30,73650.0,3030285,Woodbridge High,No ,No ,10.9
+1392,30,73650.0,3030657,Northwood High,No ,No ,7.7
+1393,30,73650.0,3035102,University High,No ,No ,10.5
+1394,30,73650.0,3030129,Creekside High,No ,Yes,78.6
+1395,30,73924.0,3033917,Los Alamitos High,No ,No ,16.4
+1399,31,10314.0,3130101,Placer County Court,No ,Yes,2.9
+1401,31,66894.0,0102293,Foresthill High,No ,No ,21.2
+1402,31,66894.0,0138081,Maidu Virtual Charter Academy,Yes,No ,44.8
+1403,31,66894.0,3131851,Colfax High,No ,No ,11.0
+1404,31,66894.0,3132453,Del Oro High,No ,No ,9.3
+1405,31,66894.0,3135704,Placer High,No ,No ,17.1
+1407,31,66928.0,0116459,Antelope High,No ,No ,13.6
+1409,31,66928.0,0139840,West Park High,No ,No ,9.6
+1411,31,66928.0,3130119,Independence High (Alternative),No ,No ,46.6
+1412,31,66928.0,3130176,Woodcreek High,No ,No ,9.9
+1413,31,66928.0,3130184,Granite Bay High,No ,No ,7.3
+1414,31,66928.0,3135308,Oakmont High,No ,No ,14.1
+1415,31,66928.0,3136504,Roseville High,No ,No ,14.6
+1417,31,66944.0,3130010,North Tahoe High,No ,No ,15.7
+1419,31,66944.0,3138500,Tahoe Truckee High,No ,No ,11.8
+1424,31,66951.0,0140541,Twelve Bridges High,No ,No ,17.6
+1426,31,66951.0,3134657,Lincoln High,No ,No ,17.3
+1428,31,75085.0,0108084,Whitney High,No ,No ,13.2
+1430,31,75085.0,3130150,Rocklin High,No ,No ,9.9
+1433,32,10322.0,0100057,Plumas County Community,No ,Yes,91.7
+1444,33,10330.0,0125237,Leadership Military Academy,Yes,Yes,48.3
+1445,33,10330.0,0128397,CBK Charter,Yes,Yes,33.1
+1446,33,10330.0,0128777,Gateway College and Career Academy,Yes,Yes,55.3
+1452,33,66977.0,0125732,Hillcrest High,No ,No ,20.1
+1453,33,66977.0,3330008,La Sierra High,No ,No ,27.1
+1454,33,66977.0,3334299,Norte Vista High,No ,No ,27.8
+1463,33,66993.0,3330479,Beaumont Senior High,No ,No ,24.2
+1465,33,67033.0,0110627,Eleanor Roosevelt High,No ,No ,10.4
+1466,33,67033.0,0110759,John F. Kennedy High,No ,No ,6.6
+1468,33,67033.0,3330446,Centennial High,No ,No ,14.9
+1469,33,67033.0,3330701,Santiago High,No ,No ,18.4
+1470,33,67033.0,3331600,Corona High,No ,No ,18.1
+1471,33,67033.0,3334232,Norco High,No ,No ,19.4
+1475,33,67058.0,0118885,Shadow Hills High,No ,No ,29.3
+1477,33,67058.0,3330388,Palm Desert High,No ,No ,23.4
+1478,33,67058.0,3330669,La Quinta High,No ,No ,27.3
+1480,33,67058.0,3333192,Indio High,No ,No ,43.7
+1484,33,67082.0,0113159,Tahquitz High,No ,No ,38.0
+1487,33,67082.0,3330537,West Valley High,No ,No ,34.9
+1488,33,67082.0,3332673,Hemet High,No ,No ,33.5
+1490,33,67090.0,0114157,Patriot High,No ,No ,27.0
+1491,33,67090.0,3330412,Jurupa Valley High,No ,No ,33.0
+1492,33,67090.0,3337136,Rubidoux High,No ,No ,34.3
+1497,33,67124.0,3330396,Canyon Springs High,No ,No ,28.9
+1498,33,67124.0,3330438,Valley View High,No ,No ,25.0
+1499,33,67124.0,3331071,Vista del Lago High,No ,No ,25.5
+1500,33,67124.0,3333770,Moreno Valley High,No ,No ,30.1
+1503,33,67157.0,3331014,Nuview Bridge Early College High,Yes,No ,14.9
+1504,33,67173.0,0127316,Rancho Mirage High,No ,No ,28.4
+1506,33,67173.0,3330578,Cathedral City High,No ,No ,29.3
+1507,33,67173.0,3330818,Desert Hot Springs High,No ,No ,42.9
+1508,33,67173.0,3335130,Palm Springs High,No ,No ,31.8
+1511,33,67181.0,3335759,Palo Verde High,No ,No ,33.9
+1514,33,67207.0,0113191,Heritage High,No ,No ,31.4
+1516,33,67207.0,0140491,Liberty High,No ,No ,21.4
+1517,33,67207.0,3330727,Paloma Valley High,No ,No ,22.7
+1518,33,67207.0,3335973,Perris High,No ,No ,35.3
+1523,33,67215.0,3330024,Arlington High,No ,No ,17.4
+1525,33,67215.0,3330859,Martin Luther King Jr. High,No ,No ,13.6
+1526,33,67215.0,3334406,John W. North High,No ,No ,23.2
+1527,33,67215.0,3336237,Polytechnic High,No ,No ,22.1
+1528,33,67215.0,3336492,Ramona High,No ,No ,19.6
+1535,33,67249.0,3331006,Mountain Heights Academy,No ,No ,51.2
+1536,33,67249.0,3337656,San Jacinto High,No ,No ,23.7
+1539,33,73676.0,0100255,Desert Mirage High,No ,No ,40.5
+1540,33,73676.0,0121673,NOVA Academy - Coachella,Yes,No ,28.2
+1542,33,73676.0,3330990,Coachella Valley High,No ,No ,42.2
+1544,33,75176.0,0107920,Lakeside High,No ,No ,33.0
+1546,33,75176.0,3330487,Temescal Canyon High,No ,No ,23.0
+1547,33,75176.0,3332350,Elsinore High,No ,No ,38.5
+1549,33,75192.0,0105734,Great Oak High,No ,No ,14.7
+1550,33,75192.0,3330370,Temecula Valley High,No ,No ,18.6
+1551,33,75192.0,3330636,Susan H. Nelson,No ,No ,39.3
+1552,33,75192.0,3330743,Chaparral High,No ,No ,20.9
+1555,33,75200.0,0100420,Vista Murrieta High,No ,No ,19.2
+1557,33,75200.0,0118794,Murrieta Mesa High,No ,No ,23.5
+1558,33,75200.0,3330529,Murrieta Valley High,No ,No ,22.4
+1560,33,75242.0,0109108,Citrus Hill High,No ,No ,27.8
+1562,33,75242.0,0133306,Orange Vista High,No ,No ,31.7
+1563,33,75242.0,3330552,Rancho Verde High,No ,No ,28.8
+1574,34,67314.0,0105916,Monterey Trail High,No ,No ,14.8
+1575,34,67314.0,0108753,Pleasant Grove High,No ,No ,11.6
+1576,34,67314.0,0116897,Cosumnes Oaks High,No ,No ,14.4
+1578,34,67314.0,3430170,Valley High,No ,No ,25.8
+1580,34,67314.0,3430477,Florin High,No ,No ,25.6
+1581,34,67314.0,3430592,Laguna Creek High,No ,No ,20.5
+1582,34,67314.0,3430618,Sheldon High,No ,No ,17.8
+1583,34,67314.0,3430873,Franklin High,No ,No ,11.3
+1584,34,67314.0,3432572,Elk Grove High,No ,No ,21.0
+1591,34,67330.0,0113571,Vista del Lago High,No ,No ,6.6
+1594,34,67330.0,3431533,Cordova High,No ,No ,24.0
+1595,34,67330.0,3433216,Folsom High,No ,No ,8.3
+1600,34,67330.0,3434792,Kinney High (Continuation),No ,Yes,88.1
+1601,34,67355.0,0119131,Liberty Ranch High,No ,No ,14.5
+1602,34,67355.0,3433471,Galt High,No ,No ,20.2
+1606,34,67413.0,4835302,Rio Vista High,No ,No ,26.8
+1611,34,67421.0,0137950,Marconi Learning Academy,Yes,Yes,82.4
+1612,34,67439.0,0101881,Sacramento New Technology Early College High,Yes,No ,28.8
+1613,34,67439.0,0101899,George Washington Carver School of Arts and Science,Yes,No ,31.4
+1614,34,67439.0,0101907,The MET,Yes,No ,12.1
+1615,34,67439.0,0101972,Rosemont High,No ,No ,34.0
+1616,34,67439.0,0102038,Sacramento Charter High,Yes,No ,43.4
+1617,34,67439.0,0108951,Arthur A. Benjamin Health Professions High,No ,No ,40.3
+1620,34,67439.0,3430865,West Campus,No ,No ,7.4
+1621,34,67439.0,3431012,Luther Burbank High,No ,No ,30.4
+1622,34,67439.0,3434636,Hiram W. Johnson High,No ,No ,43.2
+1623,34,67439.0,3434768,John F. Kennedy High,No ,No ,28.3
+1624,34,67439.0,3435419,C. K. McClatchy High,No ,No ,26.1
+1629,34,67447.0,0135772,Meraki High,No ,No ,18.4
+1630,34,67447.0,3430048,Mesa Verde High,No ,No ,33.9
+1631,34,67447.0,3430386,El Sereno Alternative Education,No ,No ,46.2
+1633,34,67447.0,3430493,Bella Vista High,No ,No ,25.8
+1636,34,67447.0,3431111,Casa Roble Fundamental High,No ,No ,21.0
+1637,34,67447.0,3432051,Del Campo High,No ,No ,24.5
+1638,34,67447.0,3432317,El Camino Fundamental High,No ,No ,21.3
+1639,34,67447.0,3432838,Encina High,No ,No ,33.9
+1640,34,67447.0,3435930,Mira Loma High,No ,No ,25.6
+1641,34,67447.0,3436714,Rio Americano High,No ,No ,21.7
+1642,34,67447.0,3438504,San Juan High,No ,No ,36.3
+1647,34,73973.0,3430378,Center High,No ,No ,27.0
+1649,34,75283.0,0102236,Inderkum High,No ,No ,16.7
+1651,34,75283.0,0112425,Natomas Pacific Pathways Prep,Yes,No ,3.6
+1653,34,75283.0,3430584,Natomas High,No ,No ,22.6
+1656,34,76505.0,0101832,Futures High,Yes,No ,16.3
+1659,34,76505.0,0130757,Highlands Community Charter,Yes,No ,95.3
+1660,34,76505.0,0139584,California Innovative Career Academy,Yes,No ,65.9
+1662,34,76505.0,3433265,Foothill High,No ,No ,35.4
+1663,34,76505.0,3433794,Grant Union High,No ,No ,32.8
+1664,34,76505.0,3434370,Highlands High,No ,No ,42.1
+1665,34,76505.0,3436979,Rio Linda High,No ,No ,35.1
+1671,35,10355.0,0132308,Pinnacles Community,No ,Yes,66.7
+1673,35,10355.0,3530045,San Benito County Juvenile Hall Court,No ,Yes,0.0
+1676,35,75259.0,3530060,Anzar High,No ,No ,14.1
+1678,36,10363.0,0140012,Entrepreneur High Fontana,Yes,No ,54.7
+1685,36,67611.0,3630803,Barstow High,No ,No ,55.8
+1689,36,67637.0,3630290,Chautauqua High (Continuation),No ,Yes,96.8
+1690,36,67652.0,0126243,Chaffey District Online High,No ,No ,16.7
+1691,36,67652.0,3630225,Alta Loma High,No ,No ,29.3
+1692,36,67652.0,3630373,Etiwanda High,No ,No ,22.4
+1693,36,67652.0,3630571,Rancho Cucamonga High,No ,No ,27.5
+1694,36,67652.0,3631058,Los Osos High,No ,No ,25.0
+1695,36,67652.0,3631157,Colony High,No ,No ,31.4
+1696,36,67652.0,3632205,Chaffey High,No ,No ,38.2
+1697,36,67652.0,3633906,Montclair High,No ,No ,34.4
+1698,36,67652.0,3634482,Ontario High,No ,No ,32.5
+1699,36,67652.0,3630845,Chaffey Community Day,No ,Yes,90.3
+1700,36,67652.0,3637659,Valley View High (Continuation),No ,Yes,90.0
+1701,36,67678.0,3630035,Don Antonio Lugo High,No ,No ,25.4
+1702,36,67678.0,3630522,Ruben S. Ayala High,No ,No ,14.7
+1703,36,67678.0,3631017,Chino Hills High,No ,No ,20.8
+1704,36,67678.0,3632502,Chino High,No ,No ,27.3
+1706,36,67678.0,3631587,Boys Republic High,No ,Yes,0.0
+1708,36,67686.0,0125500,Grand Terrace High School at the Ray Abril Jr. Educational Complex,No ,No ,19.8
+1710,36,67686.0,3631322,Bloomington High,No ,No ,19.1
+1711,36,67686.0,3632742,Colton High,No ,No ,24.6
+1713,36,67710.0,0108191,Summit High,No ,No ,19.2
+1714,36,67710.0,0120758,Jurupa Hills High,No ,No ,24.3
+1715,36,67710.0,3630555,Fontana A. B. Miller High,No ,No ,24.8
+1716,36,67710.0,3630902,Henry J. Kaiser High,No ,No ,24.7
+1717,36,67710.0,3633302,Fontana High,No ,No ,22.9
+1728,36,67777.0,3638616,Yucca Valley High,No ,No ,38.6
+1730,36,67801.0,3634169,Needles High,No ,No ,26.4
+1732,36,67801.0,3630266,Educational Training Center,No ,Yes,100.0
+1741,36,67843.0,0118802,Citrus Valley High,No ,No ,20.8
+1743,36,67843.0,3630779,Redlands East Valley High,No ,No ,27.7
+1745,36,67843.0,3635042,Redlands Senior High,No ,No ,21.9
+1747,36,67850.0,0102830,Wilmer Amina Carter High,No ,No ,23.3
+1748,36,67850.0,3630597,Rialto High,No ,No ,18.9
+1749,36,67850.0,3633005,Eisenhower High,No ,No ,24.1
+1751,36,67850.0,3630530,Zupanic Virtual Academy,No ,Yes,50.7
+1753,36,67868.0,3635265,Rim of the World High,No ,No ,30.1
+1757,36,67876.0,0125450,Indian Springs High,No ,No ,34.5
+1758,36,67876.0,0136952,Entrepreneur High,Yes,No ,56.0
+1761,36,67876.0,3631082,Arroyo Valley High,No ,No ,35.1
+1762,36,67876.0,3631090,Middle College High,No ,No ,5.9
+1763,36,67876.0,3632221,Cajon High,No ,No ,22.6
+1764,36,67876.0,3634680,Pacific High,No ,No ,36.9
+1765,36,67876.0,3635844,San Bernardino High,No ,No ,28.4
+1766,36,67876.0,3636081,San Gorgonio High,No ,No ,25.3
+1774,36,67934.0,0125419,Adelanto High,No ,No ,22.2
+1778,36,67934.0,3630787,Silverado High,No ,No ,22.8
+1779,36,67934.0,3638012,Victor Valley High,No ,No ,18.0
+1784,36,67959.0,3638509,Yucaipa High,No ,No ,25.1
+1786,36,67959.0,3633351,Green Valley High,No ,Yes,75.9
+1787,36,73858.0,3630076,Baker High,No ,No ,16.1
+1788,36,73890.0,3630274,Silver Valley High,No ,No ,22.0
+1791,36,73957.0,3630233,Serrano High,No ,No ,27.2
+1796,36,75044.0,0119115,Oak Hills High,No ,No ,37.6
+1797,36,75044.0,3630407,Hesperia High,No ,No ,40.8
+1798,36,75044.0,3630746,Sultana High,No ,No ,27.9
+1809,36,75051.0,3630563,Lucerne Valley High,No ,No ,32.8
+1810,36,75051.0,0136432,Alta Vista Innovation High,Yes,Yes,71.8
+1812,36,75069.0,3637584,Upland High,No ,No ,19.8
+1814,36,75077.0,3630423,Apple Valley High,No ,No ,29.9
+1815,36,75077.0,3630894,Granite Hills High,No ,No ,38.1
+1821,37,10371.0,0115998,San Pasqual Academy,No ,Yes,43.2
+1828,37,67983.0,3730447,Borrego Springs High,No ,No ,27.3
+1829,37,67983.0,0134890,San Diego Workforce Innovation High,Yes,Yes,59.4
+1834,37,68031.0,3731478,Coronado High,No ,No ,12.7
+1838,37,68106.0,0111195,Classical Academy High,Yes,No ,2.6
+1839,37,68106.0,0127241,Del Lago Academy - Campus of Applied Science,No ,No ,14.6
+1840,37,68106.0,3730058,San Pasqual High,No ,No ,18.8
+1841,37,68106.0,3731023,Escondido Charter High,Yes,No ,5.1
+1842,37,68106.0,3732062,Escondido High,No ,No ,23.2
+1843,37,68106.0,3735313,Orange Glen High,No ,No ,25.5
+1846,37,68122.0,3730967,Oasis High (Alternative),No ,No ,9.7
+1847,37,68122.0,3732179,Fallbrook High,No ,No ,26.4
+1849,37,68130.0,0132548,IDEA Center,No ,No ,50.3
+1851,37,68130.0,3730066,Valhalla High,No ,No ,22.8
+1852,37,68130.0,3730702,West Hills High,No ,No ,18.2
+1853,37,68130.0,3731262,Steele Canyon High,Yes,No ,15.0
+1855,37,68130.0,3731692,El Cajon Valley High,No ,No ,29.2
+1856,37,68130.0,3731809,El Capitan High,No ,No ,24.9
+1857,37,68130.0,3732336,Granite Hills High,No ,No ,24.7
+1858,37,68130.0,3732625,Grossmont High,No ,No ,21.6
+1859,37,68130.0,3732732,Helix High,Yes,No ,5.3
+1860,37,68130.0,3734548,Monte Vista High,No ,No ,31.4
+1861,37,68130.0,3734761,Mount Miguel High,No ,No ,31.4
+1863,37,68130.0,0128793,MERIT Academy,No ,Yes,45.2
+1865,37,68130.0,3731486,Elite Academy,No ,Yes,64.7
+1873,37,68171.0,3733219,Julian High,No ,No ,32.5
+1879,37,68213.0,3734878,Mountain Empire High,No ,No ,43.8
+1880,37,68213.0,0123224,San Diego Virtual,Yes,Yes,12.4
+1883,37,68296.0,0118935,Del Norte High,No ,No ,9.3
+1885,37,68296.0,3730074,Mt. Carmel High,No ,No ,12.9
+1886,37,68296.0,3730819,Rancho Bernardo High,No ,No ,14.5
+1887,37,68296.0,3731528,Westview High,No ,No ,9.6
+1888,37,68296.0,3735867,Poway High,No ,No ,16.7
+1892,37,68304.0,3735974,Ramona High,No ,No ,25.3
+1895,37,68338.0,0106732,High Tech High International,Yes,No ,15.0
+1897,37,68338.0,0107078,Kearny Digital Media & Design,No ,No ,15.0
+1898,37,68338.0,0107086,Kearny School of Biomedical Science and Technology,No ,No ,9.0
+1899,37,68338.0,0107094,Kearny College Connections,No ,No ,12.9
+1900,37,68338.0,0107102,Kearny Eng Innov & Design,No ,No ,10.6
+1901,37,68338.0,0107177,Crawford High,No ,No ,23.6
+1902,37,68338.0,0107219,San Diego High,No ,No ,28.3
+1903,37,68338.0,0107482,San Diego Metro Career and Tech,No ,No ,0.8
+1904,37,68338.0,0108787,High Tech High Media Arts,Yes,No ,31.7
+1905,37,68338.0,0114025,Lincoln High,No ,No ,33.1
+1906,37,68338.0,0114462,Health Sciences High and Middle College,Yes,No ,33.6
+1907,37,68338.0,0118315,East Village Middle College High,No ,No ,12.8
+1908,37,68338.0,0118851,King-Chavez Community High,Yes,No ,33.9
+1910,37,68338.0,0122788,School for Entrepreneurship and Technology,Yes,No ,6.7
+1913,37,68338.0,0127647,e3 Civic High,Yes,No ,20.4
+1917,37,68338.0,3730173,Canyon Hills High,No ,No ,16.8
+1918,37,68338.0,3730181,Mira Mesa High,No ,No ,11.4
+1919,37,68338.0,3730314,University City High,No ,No ,16.8
+1922,37,68338.0,3730884,Scripps Ranch High,No ,No ,10.0
+1925,37,68338.0,3731213,Clairemont High,No ,No ,26.5
+1926,37,68338.0,3731247,High Tech High,Yes,No ,18.6
+1927,37,68338.0,3732781,Henry High,No ,No ,15.7
+1928,37,68338.0,3732997,Hoover High,No ,No ,21.6
+1929,37,68338.0,3733508,La Jolla High,No ,No ,16.1
+1930,37,68338.0,3733698,Madison High,No ,No ,22.0
+1931,37,68338.0,3734431,Mission Bay High,No ,No ,18.3
+1932,37,68338.0,3734654,Morse High,No ,No ,19.8
+1933,37,68338.0,3735750,Point Loma High,No ,No ,13.8
+1936,37,68338.0,3730231,Twain High,No ,Yes,74.4
+1941,37,68338.0,3737962,Garfield High,No ,Yes,58.4
+1943,37,68346.0,0106328,Canyon Crest Academy,No ,No ,5.4
+1944,37,68346.0,3730033,Torrey Pines High,No ,No ,12.0
+1945,37,68346.0,3731007,La Costa Canyon High,No ,No ,13.6
+1946,37,68346.0,3737418,San Dieguito HS Academy,No ,No ,12.3
+1947,37,68346.0,3737384,Sunset High (Continuation),No ,Yes,81.3
+1949,37,68403.0,0125401,Insight @ San Diego,Yes,Yes,29.7
+1950,37,68411.0,0111831,Olympian High,No ,No ,18.1
+1953,37,68411.0,3730124,Southwest Senior High,No ,No ,18.9
+1954,37,68411.0,3730405,Bonita Vista Senior High,No ,No ,15.7
+1955,37,68411.0,3730801,Castle Park Senior High,No ,No ,14.9
+1956,37,68411.0,3730843,Eastlake High,No ,No ,8.5
+1957,37,68411.0,3731064,Chula Vista Senior High,No ,No ,28.5
+1959,37,68411.0,3731502,San Ysidro High,No ,No ,26.0
+1960,37,68411.0,3731627,Otay Ranch Senior High,No ,No ,14.8
+1961,37,68411.0,3732849,Hilltop Senior High,No ,No ,24.5
+1962,37,68411.0,3733953,Mar Vista Senior High,No ,No ,20.1
+1963,37,68411.0,3738226,Sweetwater High,No ,No ,19.5
+1964,37,68411.0,3738234,Montgomery Senior High,No ,No ,16.7
+1966,37,68411.0,3731304,MAAC Community Charter,Yes,Yes,38.8
+1969,37,68452.0,0118430,Mission Vista High,No ,No ,10.0
+1973,37,68452.0,3730728,Rancho Buena Vista High,No ,No ,18.2
+1975,37,68452.0,3738705,Vista High,No ,No ,23.2
+1977,37,68452.0,0114264,North County Trade Tech High,Yes,Yes,28.7
+1980,37,73551.0,0127423,Sage Creek High,No ,No ,14.7
+1981,37,73551.0,3730694,Carlsbad High,No ,No ,21.1
+1982,37,73551.0,3731163,Carlsbad Seaside Academy,No ,No ,17.4
+1987,37,73569.0,3735206,Oceanside High,No ,No ,36.0
+1988,37,73569.0,3739018,El Camino High,No ,No ,24.2
+1991,37,73791.0,0105726,Mission Hills High,No ,No ,13.2
+1994,37,73791.0,3737632,San Marcos High,No ,No ,18.5
+2002,37,75416.0,0139451,Pathways Academy Charter School - Adult Education,Yes,Yes,41.6
+2003,37,75614.0,3731114,Valley Center High,No ,No ,24.9
+2006,37,76471.0,0114678,High Tech High Chula Vista,Yes,No ,19.6
+2007,37,76471.0,0114694,High Tech High North County,Yes,No ,13.7
+2008,37,76471.0,0137067,High Tech High Mesa,Yes,No ,16.7
+2009,37,76851.0,0129320,Bonsall High,No ,No ,34.5
+2012,38,10389.0,3830361,S.F. County Court Woodside Learning Ctr,No ,Yes,0.0
+2013,38,10389.0,3830395,S.F. County Opportunity (Hilltop),No ,Yes,99.0
+2016,38,68478.0,0102103,Jordan (June) School for Equity,No ,No ,60.1
+2017,38,68478.0,0107300,City Arts & Leadership Academy,Yes,No ,40.7
+2018,38,68478.0,0119875,S.F. International High,No ,No ,45.4
+2019,38,68478.0,0119958,Academy (The)- SF @McAteer,No ,No ,39.8
+2020,38,68478.0,0127530,KIPP San Francisco College Preparatory,Yes,No ,35.7
+2021,38,68478.0,3830197,Independence High,No ,No ,37.2
+2022,38,68478.0,3830205,Wallenberg (Raoul) Traditional High,No ,No ,34.3
+2023,38,68478.0,3830254,Burton (Phillip and Sala) Academic High,No ,No ,39.9
+2024,38,68478.0,3830288,Balboa High,No ,No ,25.5
+2025,38,68478.0,3830387,"Asawa (Ruth) SF Sch of the Arts, A Public School",No ,No ,15.2
+2026,38,68478.0,3830403,Marshall (Thurgood) High,No ,No ,57.9
+2027,38,68478.0,3830437,Gateway High,Yes,No ,18.2
+2028,38,68478.0,3831765,Galileo High,No ,No ,27.8
+2029,38,68478.0,3833241,Lincoln (Abraham) High,No ,No ,18.8
+2030,38,68478.0,3833407,Lowell High,No ,No ,11.1
+2031,38,68478.0,3834082,Mission High,No ,No ,46.8
+2032,38,68478.0,3834769,O'Connell (John) High,No ,No ,58.0
+2033,38,68478.0,3839081,Washington (George) High,No ,No ,21.6
+2036,38,68478.0,3830031,Wells (Ida B.) High,No ,Yes,93.7
+2037,38,68478.0,3830064,Downtown High,No ,Yes,88.0
+2038,38,68478.0,3830429,Life Learning Academy Charter,Yes,Yes,80.7
+2045,39,68502.0,3932308,Escalon High,No ,No ,16.4
+2047,39,68569.0,3933801,Lincoln High,No ,No ,25.2
+2049,39,68577.0,3933959,Linden High,No ,No ,15.3
+2051,39,68585.0,0101956,Aspire Benjamin Holt College Preparatory Academy,Yes,No ,17.9
+2053,39,68585.0,0108225,Ronald E. McNair High,No ,No ,31.5
+2056,39,68585.0,3930237,Bear Creek High,No ,No ,29.2
+2058,39,68585.0,3930443,Middle College High,No ,No ,5.0
+2059,39,68585.0,3934759,Tokay High,No ,No ,20.6
+2060,39,68585.0,3934783,Lodi High,No ,No ,22.5
+2063,39,68593.0,0101576,Weston Ranch High,No ,No ,25.0
+2064,39,68593.0,0116376,Lathrop High,No ,No ,19.7
+2065,39,68593.0,3930310,Sierra High,No ,No ,12.3
+2066,39,68593.0,3932001,East Union High,No ,No ,21.9
+2067,39,68593.0,3935103,Manteca High,No ,No ,27.5
+2074,39,68627.0,0136135,Delta Charter Online,Yes,No ,0.5
+2076,39,68627.0,0133116,Insight @ San Joaquin,Yes,Yes,27.9
+2079,39,68650.0,3935756,Ripon High,No ,No ,11.1
+2081,39,68676.0,0108159,Cesar Chavez High,No ,No ,35.0
+2082,39,68676.0,0115402,Edward C. Merlo Institute of Environmental Studies,No ,No ,17.0
+2084,39,68676.0,0119743,Stockton Early College Academy,Yes,No ,7.3
+2085,39,68676.0,0119784,Stockton High,No ,No ,96.9
+2087,39,68676.0,0123802,Health Careers Academy,Yes,No ,19.5
+2088,39,68676.0,0124248,Pacific Law Academy,Yes,No ,12.1
+2090,39,68676.0,3930427,Weber Institute,No ,No ,11.4
+2091,39,68676.0,3932100,Edison High,No ,No ,39.3
+2093,39,68676.0,3937406,Stagg Senior High,No ,No ,42.5
+2097,39,75499.0,0102392,Millennium Charter,Yes,No ,8.9
+2098,39,75499.0,0119040,John C. Kimball High,No ,No ,14.6
+2100,39,75499.0,3930302,Merrill F. West High,No ,No ,18.3
+2101,39,75499.0,3938008,Tracy High,No ,No ,18.6
+2104,39,76760.0,0128967,Mountain House High,No ,No ,9.0
+2110,40,68700.0,4030102,Atascadero Choices in Education Academy (ACE),No ,No ,14.1
+2111,40,68700.0,4030755,Atascadero High,No ,No ,49.6
+2113,40,68759.0,0125328,Central Coast New Tech High,No ,No ,18.3
+2115,40,68759.0,4030268,Nipomo High,No ,No ,22.5
+2119,40,68809.0,4034807,Morro Bay High,No ,No ,23.7
+2120,40,68809.0,4036703,San Luis Obispo High,No ,No ,21.0
+2122,40,68833.0,4037008,Shandon High,No ,No ,22.1
+2123,40,68841.0,4030185,Templeton Independent Study High,No ,No ,34.4
+2124,40,68841.0,4037701,Templeton High,No ,No ,8.6
+2126,40,75457.0,0119354,Independence High,No ,No ,35.0
+2127,40,75457.0,4035754,Paso Robles High,No ,No ,19.8
+2131,40,75465.0,4032009,Coast Union High,No ,No ,27.1
+2133,41,10413.0,0135269,Oxford Day Academy,Yes,No ,3.5
+2138,41,68890.0,4132817,Half Moon Bay High,No ,No ,19.8
+2141,41,68924.0,0127548,Summit Public School: Shasta,Yes,No ,13.8
+2142,41,68924.0,4133393,Jefferson High,No ,No ,32.7
+2143,41,68924.0,4135075,Oceana High,No ,No ,9.8
+2144,41,68924.0,4137535,Terra Nova High,No ,No ,12.0
+2145,41,68924.0,4137790,Westmoor High,No ,No ,19.2
+2146,41,68924.0,4137592,Thornton High,No ,Yes,63.3
+2147,41,68940.0,4135331,Pescadero High,No ,No ,40.7
+2149,41,69047.0,0129759,Design Tech High,Yes,No ,12.5
+2151,41,69047.0,4130217,Aragon High,No ,No ,7.7
+2152,41,69047.0,4130472,Burlingame High,No ,No ,8.9
+2153,41,69047.0,4130738,Capuchino High,No ,No ,21.2
+2154,41,69047.0,4133070,Hillsdale High,No ,No ,12.6
+2155,41,69047.0,4134557,Mills High,No ,No ,8.2
+2156,41,69047.0,4136370,San Mateo High,No ,No ,20.3
+2158,41,69062.0,0112722,Summit Preparatory Charter High,Yes,No ,33.1
+2160,41,69062.0,0126722,East Palo Alto Academy,Yes,No ,32.0
+2161,41,69062.0,0138420,Tide Academy,No ,No ,21.4
+2162,41,69062.0,0139915,KIPP Esperanza High,Yes,No ,37.3
+2163,41,69062.0,4130993,Carlmont High,No ,No ,10.8
+2164,41,69062.0,4133716,Menlo-Atherton High,No ,No ,17.6
+2165,41,69062.0,4136693,Sequoia High,No ,No ,25.4
+2166,41,69062.0,4138053,Woodside High,No ,No ,19.7
+2168,41,69070.0,4132551,El Camino High,No ,No ,8.4
+2169,41,69070.0,4137279,South San Francisco High,No ,No ,21.5
+2179,42,69146.0,4230587,Carpinteria Senior High,No ,No ,22.5
+2180,42,69229.0,4230454,Cabrillo High,No ,No ,25.7
+2181,42,69229.0,4233060,Lompoc High,No ,No ,22.9
+2185,42,69310.0,0102285,Pioneer Valley High,No ,No ,17.1
+2186,42,69310.0,4234613,Ernest Righetti High,No ,No ,23.0
+2187,42,69310.0,4236030,Santa Maria High,No ,No ,21.7
+2189,42,69328.0,4236345,Santa Ynez Valley Union High,No ,No ,19.8
+2192,42,75010.0,4231205,Cuyama Valley High,No ,No ,15.0
+2194,42,76786.0,0120402,Alta Vista Alternative High,No ,No ,78.8
+2195,42,76786.0,4231726,Dos Pueblos Senior High,No ,No ,17.2
+2196,42,76786.0,4235230,San Marcos Senior High,No ,No ,19.5
+2197,42,76786.0,4235727,Santa Barbara Senior High,No ,No ,25.4
+2204,43,10439.0,0123794,Summit Public School: Tahoma,Yes,No ,21.7
+2205,43,10439.0,0135087,Opportunity Youth Academy,Yes,Yes,76.5
+2206,43,10439.0,4330254,Santa Clara County Court,No ,Yes,0.0
+2209,43,69401.0,4330239,Leigh High,No ,No ,10.6
+2210,43,69401.0,4330866,Branham High,No ,No ,10.1
+2211,43,69401.0,4331955,Del Mar High,No ,No ,18.3
+2212,43,69401.0,4336137,Prospect High,No ,No ,14.0
+2213,43,69401.0,4338505,Westmont High,No ,No ,9.5
+2215,43,69427.0,0116889,KIPP San Jose Collegiate,Yes,No ,6.3
+2217,43,69427.0,0125617,ACE Charter High,Yes,No ,48.4
+2218,43,69427.0,0130856,Luis Valdez Leadership Academy,Yes,No ,40.7
+2219,43,69427.0,0131995,B. Roberto Cruz Leadership Academy,Yes,No ,39.2
+2220,43,69427.0,0132274,Alpha Cindy Avitia High,Yes,No ,33.8
+2221,43,69427.0,4330015,Yerba Buena High,No ,No ,18.9
+2222,43,69427.0,4330023,Santa Teresa High,No ,No ,16.9
+2223,43,69427.0,4330031,Independence High,No ,No ,20.7
+2224,43,69427.0,4330668,Latino College Preparatory Academy,Yes,No ,22.0
+2225,43,69427.0,4330692,Evergreen Valley High,No ,No ,10.2
+2227,43,69427.0,4332995,Andrew P. Hill High,No ,No ,32.7
+2228,43,69427.0,4333639,James Lick High,No ,No ,32.6
+2229,43,69427.0,4334900,Mt. Pleasant High,No ,No ,25.5
+2230,43,69427.0,4335204,Oak Grove High,No ,No ,27.3
+2231,43,69427.0,4335428,William C. Overfelt High,No ,No ,32.9
+2232,43,69427.0,4335907,Piedmont Hills High,No ,No ,10.6
+2233,43,69427.0,4337903,Silver Creek High,No ,No ,12.7
+2234,43,69427.0,0107151,"Escuela Popular/Center for Training and Careers, Family Learning",Yes,Yes,69.9
+2240,43,69468.0,4331799,Cupertino High,No ,No ,7.1
+2241,43,69468.0,4332474,Fremont High,No ,No ,20.2
+2242,43,69468.0,4333316,Homestead High,No ,No ,11.9
+2243,43,69468.0,4334421,Lynbrook High,No ,No ,7.1
+2244,43,69468.0,4334462,Monta Vista High,No ,No ,7.1
+2245,43,69468.0,4330569,Community Day,No ,Yes,*
+2246,43,69484.0,0114496,Dr. TJ Owens Gilroy Early College Academy,No ,No ,3.3
+2247,43,69484.0,0118380,Christopher High,No ,No ,19.1
+2248,43,69484.0,4332839,Gilroy High,No ,No ,25.8
+2250,43,69534.0,4334371,Los Gatos High,No ,No ,10.0
+2251,43,69534.0,4337762,Saratoga High,No ,No ,8.9
+2252,43,69583.0,0102368,Ann Sobrato High,No ,No ,18.9
+2253,43,69583.0,4333951,Live Oak High,No ,No ,25.3
+2255,43,69609.0,4334116,Los Altos High,No ,No ,10.6
+2256,43,69609.0,4334728,Mountain View High,No ,No ,8.9
+2258,43,69641.0,4332904,Henry M. Gunn High,No ,No ,13.2
+2259,43,69641.0,4335782,Palo Alto High,No ,No ,14.1
+2261,43,69666.0,4330080,Gunderson High,No ,No ,34.0
+2264,43,69666.0,4333522,Leland High,No ,No ,15.7
+2265,43,69666.0,4333795,Abraham Lincoln High,No ,No ,28.3
+2266,43,69666.0,4335949,Pioneer High,No ,No ,20.8
+2267,43,69666.0,4337200,San Jose High,No ,No ,41.0
+2268,43,69666.0,4338950,Willow Glen High,No ,No ,30.5
+2270,43,69674.0,0135970,Mission Early College High,No ,No ,10.9
+2271,43,69674.0,4330122,Santa Clara High,No ,No ,13.1
+2272,43,69674.0,4338802,Adrian Wilcox High,No ,No ,19.7
+2274,43,69674.0,0141283,Kathleen MacDonald High,No ,Yes,12.1
+2275,43,69674.0,4330247,Wilson Alternative,No ,Yes,58.0
+2278,43,73387.0,4334470,Milpitas High,No ,No ,8.6
+2279,43,73387.0,4331039,Calaveras Hills,No ,Yes,95.8
+2280,43,77149.0,0137315,KIPP Navigate College Prep,Yes,No ,12.1
+2283,44,10447.0,4430146,Santa Cruz County Court,No ,Yes,34.4
+2286,44,69799.0,0105858,Pajaro Valley High,No ,No ,25.6
+2290,44,69799.0,4430245,Diamond Technology Institute,Yes,No ,16.1
+2291,44,69799.0,4430518,Aptos High,No ,No ,25.9
+2292,44,69799.0,4437901,Watsonville High,No ,No ,19.6
+2298,44,69807.0,4436754,San Lorenzo Valley High,No ,No ,25.8
+2299,44,69823.0,4430096,Ark Independent Studies,No ,No ,32.3
+2300,44,69823.0,4430187,Delta Charter,Yes,No ,43.7
+2302,44,69823.0,4432340,Harbor High,No ,No ,23.4
+2303,44,69823.0,4437109,Santa Cruz High,No ,No ,18.0
+2304,44,69823.0,4437406,Soquel High,No ,No ,18.0
+2307,44,75432.0,4430211,Scotts Valley High,No ,No ,11.3
+2310,45,10454.0,4530150,Shasta County Juvenile Court,No ,Yes,6.5
+2311,45,69856.0,4530028,West Valley Early College High,No ,No ,25.3
+2312,45,69856.0,4530051,Oakview High (Alternative),No ,No ,60.0
+2314,45,69856.0,4530804,Anderson High,No ,No ,26.4
+2315,45,69856.0,4530192,Anderson Community Day,No ,Yes,100.0
+2324,45,69989.0,4530010,Mountain View High (Continuation),No ,Yes,95.5
+2331,45,70136.0,4530044,Foothill High,No ,No ,18.1
+2332,45,70136.0,4530267,Shasta Charter Academy,Yes,No ,0.0
+2333,45,70136.0,4530309,Shasta Collegiate Academy,No ,No ,49.2
+2334,45,70136.0,4532750,Enterprise High,No ,No ,25.2
+2335,45,70136.0,4537304,Shasta High,No ,No ,17.6
+2336,45,70136.0,4530200,Pioneer Continuation High,No ,Yes,71.0
+2338,45,75267.0,4531901,Central Valley High,No ,No ,24.6
+2347,47,70250.0,4732707,Dunsmuir High,No ,No ,52.4
+2348,47,70466.0,4734356,Happy Camp High,No ,No ,55.8
+2349,47,70466.0,4734901,McCloud High,No ,No ,*
+2350,47,70466.0,4735403,Mount Shasta High,No ,No ,31.0
+2351,47,70466.0,4738753,Weed High,No ,No ,35.2
+2353,47,70516.0,4739207,Yreka High,No ,No ,25.6
+2355,47,73684.0,4731253,Butte Valley High,No ,No ,10.1
+2356,47,76455.0,4733309,Etna Union High,No ,No ,19.0
+2359,48,10488.0,4830071,Solano County Juvenile Detention Facility - Evergreen Academy,No ,Yes,0.0
+2362,48,70524.0,4831004,Benicia High,No ,No ,15.2
+2364,48,70532.0,4832259,Dixon High,No ,No ,15.0
+2367,48,70540.0,4830170,Angelo Rodriguez High,No ,No ,19.2
+2368,48,70540.0,4830451,Armijo High,No ,No ,24.7
+2369,48,70540.0,4833000,Fairfield High,No ,No ,22.5
+2372,48,70565.0,4838801,Vanden High,No ,No ,21.2
+2376,48,70573.0,4830089,Will C. Wood High,No ,No ,10.1
+2377,48,70573.0,4830113,Buckingham Collegiate Charter Academy,Yes,No ,10.5
+2378,48,70573.0,4837803,Vacaville High,No ,No ,8.4
+2379,48,70573.0,0141150,Shereene Wilkerson Academy of Excellence,No ,Yes,*
+2380,48,70581.0,0139816,Griffin Academy High,Yes,No ,30.6
+2381,48,70581.0,4830147,Jesse M. Bethel High,No ,No ,36.5
+2382,48,70581.0,4830196,MIT Academy,Yes,No ,28.0
+2389,49,70607.0,4930400,Analy High,No ,No ,24.7
+2391,49,70656.0,4930855,Cloverdale High,No ,No ,36.0
+2401,49,70862.0,4930012,Casa Grande High,No ,No ,18.8
+2403,49,70862.0,4935151,Petaluma High,No ,No ,14.5
+2405,49,70862.0,4930111,Sonoma Mountain High (Necessary Small School),No ,Yes,71.0
+2409,49,70920.0,4930160,Elsie Allen High,No ,No ,37.5
+2410,49,70920.0,4930244,Maria Carrillo High,No ,No ,16.8
+2411,49,70920.0,4934154,Montgomery High,No ,No ,25.1
+2412,49,70920.0,4935292,Piner High,No ,No ,31.8
+2413,49,70920.0,4936803,Santa Rosa High,No ,No ,24.1
+2416,49,70953.0,4937256,Sonoma Valley High,No ,No ,15.5
+2419,49,73882.0,0123786,Credo High,Yes,No ,13.8
+2420,49,73882.0,4930384,Technology High,No ,No ,6.9
+2421,49,73882.0,4935482,Rancho Cotate High,No ,No ,23.2
+2423,49,75358.0,0138263,Big Picture Learning Windsor,No ,No ,0.0
+2425,49,75358.0,4930228,Windsor High,No ,No ,11.6
+2427,49,75390.0,4932554,Healdsburg High,No ,No ,32.2
+2434,50,71043.0,0107136,Whitmore Charter High,Yes,No ,1.9
+2435,50,71043.0,0108076,Central Valley High,No ,No ,14.8
+2437,50,71043.0,5030168,Endeavor Alternative,No ,No ,12.1
+2438,50,71043.0,5030879,Ceres High,No ,No ,14.4
+2441,50,71068.0,5031521,Denair High,No ,No ,27.7
+2446,50,71175.0,0110593,James C. Enochs High,No ,No ,12.8
+2448,50,71175.0,0121129,Joseph A. Gregori High,No ,No ,18.7
+2449,50,71175.0,5030010,Fred C. Beyer High,No ,No ,18.7
+2450,50,71175.0,5030135,Peter Johansen High,No ,No ,32.3
+2451,50,71175.0,5031380,Grace M. Davis High,No ,No ,26.6
+2452,50,71175.0,5031802,Thomas Downey High,No ,No ,25.5
+2453,50,71175.0,5034905,Modesto High,No ,No ,28.7
+2457,50,71217.0,5036256,Patterson High,No ,No ,18.4
+2460,50,73601.0,5035902,Orestimba High,No ,No ,22.4
+2463,50,75549.0,5032651,Hughson High,No ,No ,14.4
+2466,50,75556.0,5036850,Riverbank High,No ,No ,22.1
+2469,50,75564.0,5030192,Valley Oak Online Learning Academy,No ,No ,46.3
+2470,50,75564.0,5035654,Oakdale High,No ,No ,16.2
+2472,50,75572.0,5030259,Waterford High,No ,No ,19.8
+2476,50,75739.0,5030283,John H. Pitman High,No ,No ,21.7
+2477,50,75739.0,5037700,Turlock High,No ,No ,22.9
+2481,51,10512.0,0114207,Feather River Academy,No ,Yes,90.7
+2484,51,71373.0,5132758,East Nicolaus High,No ,No ,16.6
+2486,51,71399.0,5135256,Live Oak High,No ,No ,15.9
+2491,51,71449.0,5137500,Sutter Union High,No ,No ,17.3
+2494,51,71464.0,0107722,River Valley High,No ,No ,17.1
+2497,51,71464.0,5139001,Yuba City High,No ,No ,21.6
+2502,52,71506.0,0137414,Corning Independent Study,No ,No ,60.0
+2503,52,71506.0,5231709,Corning High,No ,No ,13.5
+2504,52,71506.0,5231675,Centennial Continuation High,No ,Yes,79.8
+2506,52,71571.0,5235106,Los Molinos High,No ,No ,19.3
+2507,52,71639.0,5237201,Red Bluff High,No ,No ,18.2
+2508,52,71639.0,5237151,Salisbury High (Continuation),No ,Yes,85.0
+2509,53,10538.0,0125633,California Heritage Youthbuild Academy II,Yes,Yes,91.1
+2512,53,75028.0,5337407,Hayfork High,No ,No ,10.2
+2513,53,75028.0,5330022,Valley High,No ,Yes,100.0
+2514,53,76513.0,5337456,Trinity High,No ,No ,29.5
+2516,54,10546.0,0119602,University Preparatory High,Yes,No ,3.1
+2520,54,10546.0,5430061,Tulare County Court,No ,Yes,0.0
+2524,54,71803.0,5430301,Alpaugh -Senior High,No ,No ,13.1
+2527,54,71860.0,5433230,Orosi High,No ,No ,12.7
+2531,54,71993.0,0124776,Loma Vista Charter,Yes,No ,83.8
+2532,54,71993.0,5432414,Lindsay Senior High,No ,No ,17.1
+2535,54,72140.0,0136507,Crescent Valley Public Charter II,Yes,Yes,50.1
+2536,54,72249.0,0116368,Mission Oak High,No ,No ,10.8
+2537,54,72249.0,0130708,Sierra Vista Charter High,Yes,No ,39.9
+2538,54,72249.0,5435409,Tulare Union High,No ,No ,13.0
+2539,54,72249.0,5435466,Tulare Western High,No ,No ,12.4
+2540,54,72249.0,0107649,Countryside Community Day,No ,Yes,75.9
+2542,54,72249.0,5430145,Tulare Technical Preparatory High,No ,Yes,88.6
+2543,54,72256.0,0109751,Visalia Charter Independent Study,Yes,No ,17.1
+2544,54,72256.0,0120659,Visalia Technical Early College,Yes,No ,11.1
+2545,54,72256.0,5430046,Golden West High,No ,No ,18.4
+2546,54,72256.0,5430368,El Diamante High,No ,No ,18.2
+2547,54,72256.0,5432828,Mt. Whitney High,No ,No ,18.4
+2548,54,72256.0,5434527,Redwood High,No ,No ,11.3
+2551,54,75325.0,5430210,Farmersville High,No ,No ,12.2
+2554,54,75523.0,0116590,Harmony Magnet Academy,Yes,No ,10.0
+2556,54,75523.0,5430251,Granite Hills High,No ,No ,21.4
+2557,54,75523.0,5432786,Monache High,No ,No ,19.2
+2558,54,75523.0,5434113,Porterville High,No ,No ,18.9
+2559,54,75523.0,5434931,Strathmore High,No ,No ,18.6
+2563,54,75531.0,5431184,Dinuba High,No ,No ,15.4
+2565,54,76794.0,5436282,Woodlake High,No ,No ,15.6
+2568,54,76836.0,5431598,Exeter Union High,No ,No ,14.5
+2575,55,72389.0,5530043,Theodore Bird High,No ,No ,60.6
+2576,55,72389.0,5536503,Sonora High,No ,No ,26.7
+2583,55,72413.0,5536750,Summerville High,No ,No ,22.3
+2585,55,75184.0,5530076,Tioga High,No ,No ,48.1
+2586,55,75184.0,5530084,Don Pedro High,No ,No ,0.0
+2588,56,10561.0,0109900,Vista Real Charter High,Yes,Yes,65.3
+2591,56,10561.0,5630223,Providence,No ,Yes,1.4
+2595,56,72454.0,5632021,Fillmore Senior High,No ,No ,15.9
+2600,56,72520.0,5634076,Nordhoff High,No ,No ,18.7
+2603,56,72546.0,0120634,"Architecture, Construction & Engineering Charter High (ACE)",Yes,No ,19.2
+2604,56,72546.0,0125674,Condor High,No ,No ,47.9
+2605,56,72546.0,0131698,Rancho Campana High,No ,No ,8.3
+2606,56,72546.0,0136804,Oxnard Middle College High,No ,No ,3.1
+2609,56,72546.0,5630389,Pacifica High,No ,No ,25.5
+2610,56,72546.0,5631619,Adolfo Camarillo High,No ,No ,16.9
+2611,56,72546.0,5631742,Channel Islands High,No ,No ,27.8
+2612,56,72546.0,5632849,Hueneme High,No ,No ,30.1
+2613,56,72546.0,5634548,Oxnard High,No ,No ,23.5
+2614,56,72546.0,5634761,Rio Mesa High,No ,No ,21.7
+2618,56,72603.0,5630322,Santa Susana High,No ,No ,15.8
+2619,56,72603.0,5635008,Royal High,No ,No ,19.0
+2620,56,72603.0,5636188,Simi Valley High,No ,No ,16.9
+2622,56,72652.0,5630298,El Camino High,No ,No ,13.5
+2623,56,72652.0,5630348,Foothill Technology High,No ,No ,8.7
+2624,56,72652.0,5630793,Buena High,No ,No ,15.2
+2625,56,72652.0,5637822,Ventura High,No ,No ,17.1
+2628,56,73759.0,5630116,Westlake High,No ,No ,16.9
+2629,56,73759.0,5633748,Newbury Park High,No ,No ,13.1
+2630,56,73759.0,5637004,Thousand Oaks High,No ,No ,16.9
+2632,56,73874.0,5630132,Oak Park High,No ,No ,6.7
+2636,56,73940.0,5630371,The High School at Moorpark College,No ,No ,17.9
+2637,56,73940.0,5633250,Moorpark High,No ,No ,15.1
+2639,56,76828.0,5635776,Santa Paula High,No ,No ,19.8
+2641,57,10579.0,0113787,Cesar Chavez Community,No ,Yes,75.0
+2651,57,72686.0,5732904,Esparto High,No ,No ,24.7
+2653,57,72694.0,0135939,Washington Middle College High,Yes,No ,8.0
+2654,57,72694.0,5735154,River City High,No ,No ,26.5
+2659,57,72710.0,0101162,Pioneer High,No ,No ,16.4
+2660,57,72710.0,5738802,Woodland Senior High,No ,No ,11.9
+2664,58,10587.0,5830047,Harry P B Carden,No ,Yes,0.0
+2669,58,72736.0,5830013,Lindhurst High,No ,No ,24.8
+2672,58,72736.0,5835202,Marysville High,No ,No ,20.4
+2674,58,72769.0,5838305,Wheatland Union High,No ,No ,15.1
